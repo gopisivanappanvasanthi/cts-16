@@ -32,6 +32,10 @@ namespace Cts.Project.Cts.Controllers
         
         private bool CheckJoinerForStartUp(Item joinerItem)
         {
+            
+            var startUpJoinerSettingItem = Sitecore.Context.Database.GetItem("{F2785C7D-FBD2-480B-B79E-2E6056BCF4C8}");
+            DateField startDateField = startUpJoinerSettingItem.Fields["StartDate"];
+            DateField endDateField = startUpJoinerSettingItem.Fields["EndDate"];
             LinkField profileField = joinerItem.Fields["ProfileDetail"];
             if (profileField.IsInternal)
             {
@@ -40,8 +44,8 @@ namespace Cts.Project.Cts.Controllers
                 {
                     DateField profileJoiningDate = profileItem.Fields["DateOfJoining"];
 
-                    if ((profileJoiningDate.DateTime > DateTime.Parse("01-01-2021"))
-                        && (profileJoiningDate.DateTime < DateTime.Parse("31-12-2021")))
+                    if ((profileJoiningDate.DateTime > startDateField.DateTime)
+                        && (profileJoiningDate.DateTime < endDateField.DateTime))
                         return true;
                     else
                         return false;
