@@ -278,16 +278,19 @@
     <Content Include="Views\Cts\Listing\StartUpJoiners.cshtml" />
     <Content Include="App_Config\Include\Cts\Cts.YourCompany.SiteDefinition.config" />
     <Content Include="App_Config\Include\Cts\Cts.MyCompany.SiteDefinition.config" />
+    <Content Include="Views\Cts\Common\Breadcrumb.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\CtsProfileController.cs" />
+    <Compile Include="Controllers\FilePathController.cs" />
     <Compile Include="Controllers\LeadershipProfileController.cs" />
     <Compile Include="Controllers\StartUpJoinersController.cs" />
     <Compile Include="Models\Article.cs" />
     <Compile Include="Models\CtsProfile.cs" />
     <Compile Include="Models\LeadershipCard.cs" />
     <Compile Include="Models\LeadershipProfile.cs" />
+    <Compile Include="Models\NavigationItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -303,6 +306,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\CtsProfile\" />
+    <Folder Include="Views\FilePath\" />
     <Folder Include="Views\StartUpJoiners\" />
   </ItemGroup>
   <PropertyGroup>
