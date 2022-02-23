@@ -283,6 +283,7 @@
     <Content Include="Views\Cts\LeadershipProfile\ThankYou.cshtml" />
     <Content Include="Views\Cts\LeadershipProfile\DisplayComment.cshtml" />
     <Content Include="Views\Cts\Common\FeaturedArticle.cshtml" />
+    <Content Include="App_Config\Include\Cts\Cts.Project.Cts.Serialization.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
