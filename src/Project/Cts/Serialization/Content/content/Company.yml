@@ -1,0 +1,19 @@
+﻿---
+ID: "8157b635-c7b1-4494-93a4-5fefa4cde885"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "405e6507-f1be-402a-b55e-a14f51e784b3"
+Path: /sitecore/content/Company
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\Gopi|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T025626Z

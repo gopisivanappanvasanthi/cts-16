@@ -1,0 +1,27 @@
+﻿---
+ID: "c4ead9d0-b4d0-43e6-b3bf-1a775c5b518c"
+Parent: "7fea2aaa-5c3d-485d-a260-ec5d68d2732b"
+Template: "44613bda-15dd-47dc-a339-b3ac9328086e"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Bharathi/CtsProfile
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05b01c40-db0c-43b1-bd52-73385d30504d"
+      Hint: DateOfJoining
+      Value: 20211031T183000Z
+    - ID: "1a5924f6-5ec0-473c-a9f6-7d3e99186cac"
+      Hint: FirstName
+      Value: Bharathi
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T031100Z
+    - ID: "e4c73ee9-3dc3-460f-bef5-7cee91995c73"
+      Hint: LeadershipProfile
+      Value: |
+        <link id="{7FEA2AAA-5C3D-485D-A260-EC5D68D2732B}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Bharathi" title="" class="" linktype="internal" />
+    - ID: "ec9c2b3f-ba83-4f86-8a5f-7a22b0fc6bb0"
+      Hint: LastName
+      Value: Amutha

@@ -1,0 +1,18 @@
+﻿---
+ID: "1c9e07b2-0c1e-497f-8f14-7d1ed839d6b7"
+Parent: "36aa829a-9e68-4dc5-ade4-d79a38925bb8"
+Template: "dd4a2a58-eff4-4838-b7c1-ae3fd7e4a144"
+Path: /sitecore/content/Company/mycompany/home/Landing/ArticleLanding
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T033117Z
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

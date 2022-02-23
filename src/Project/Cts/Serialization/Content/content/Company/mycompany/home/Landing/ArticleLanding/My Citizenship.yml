@@ -1,0 +1,25 @@
+﻿---
+ID: "a82f443c-d951-421b-bb48-fb7f1efafc50"
+Parent: "1c9e07b2-0c1e-497f-8f14-7d1ed839d6b7"
+Template: "cda21264-94d1-4470-8025-0b50732171b0"
+Path: /sitecore/content/Company/mycompany/home/Landing/ArticleLanding/My Citizenship
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T045347Z
+    - ID: "80901892-91f3-4263-92c7-b4900ea700d1"
+      Hint: Title
+      Value: My Citizenship
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

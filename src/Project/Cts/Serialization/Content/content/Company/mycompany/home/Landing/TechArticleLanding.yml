@@ -1,0 +1,40 @@
+﻿---
+ID: "9c34c9ee-0cce-4852-8ac1-4a774f523bc2"
+Parent: "36aa829a-9e68-4dc5-ade4-d79a38925bb8"
+Template: "dd4a2a58-eff4-4838-b7c1-ae3fd7e4a144"
+Path: /sitecore/content/Company/mycompany/home/Landing/TechArticleLanding
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{24BE5C8E-7F8D-44A1-8A12-F984BD1412C4}"
+          p:after="*[1=2]"
+          s:ds="{DDC4DD93-DEC6-4D71-AB5C-C2C646150F78}"
+          s:id="{344DF955-8429-42AC-89D4-F621B67A0EE1}"
+          s:par=""
+          s:ph="cts-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T033520Z
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

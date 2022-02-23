@@ -1,0 +1,21 @@
+﻿---
+ID: "ddc4dd93-dec6-4d71-ab5c-c2c646150f78"
+Parent: "9c34c9ee-0cce-4852-8ac1-4a774f523bc2"
+Template: "cda21264-94d1-4470-8025-0b50732171b0"
+Path: /sitecore/content/Company/mycompany/home/Landing/TechArticleLanding/SampleArticle
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T033525Z
+    - ID: "80901892-91f3-4263-92c7-b4900ea700d1"
+      Hint: Title
+      Value: SampleArticle sdfdfd
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

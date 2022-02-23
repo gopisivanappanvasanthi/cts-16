@@ -1,0 +1,46 @@
+﻿---
+ID: "b77fa251-5ce8-430a-87c2-7339c27dd81a"
+Parent: "1c9e07b2-0c1e-497f-8f14-7d1ed839d6b7"
+Template: "cda21264-94d1-4470-8025-0b50732171b0"
+Path: "/sitecore/content/Company/mycompany/home/Landing/ArticleLanding/independence-day"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T030004Z
+    - ID: "4f5a46ff-32b0-4639-a1ae-b54eab061fb6"
+      Hint: DetailedBlog
+      Value: |
+        <span style="background-color: #ffffff; color: #1a1a1a;">Independence Day</span><span style="background-color: #ffffff; color: #1a1a1a;">, in&nbsp;</span><a href="https://www.britannica.com/place/India" class="md-crosslink" style="color: #14599d; background-color: #ffffff;">India</a><span style="background-color: #ffffff; color: #1a1a1a;">, national&nbsp;</span><a href="https://www.britannica.com/topic/holiday" class="md-crosslink autoxref" style="color: #14599d; background-color: #ffffff;">holiday</a><span style="background-color: #ffffff; color: #1a1a1a;">&nbsp;celebrated annually on&nbsp;</span><a href="https://www.merriam-webster.com/dictionary/August" class="md-dictionary-link md-dictionary-tt-off" data-term="August" style="color: var(--black); background-color: #ffffff; border-bottom: 2px dotted var(--blue);">August</a><span style="background-color: #ffffff; color: #1a1a1a;">&nbsp;15. Independence Day marks the end of British rule in 1947 and the establishment of a free and independent Indian nation. It also marks the anniversary of the partition of the subcontinent into two countries, India and&nbsp;</span><a href="https://www.britannica.com/place/Pakistan" class="md-crosslink" style="color: #14599d; background-color: #ffffff;">Pakistan</a><span style="background-color: #ffffff; color: #1a1a1a;">, which occurred at midnight on August 14–15, 1947. (In Pakistan, Independence Day is celebrated on August 14.)</span>
+    - ID: "569a0726-c8d5-4b7f-b3b4-9edaf8384dd1"
+      Hint: Author
+      Value: Gopi S V
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5f34ef95-bd12-4b01-8ac6-d8de99b0db49"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{880C2577-E0A1-4441-8085-E9C6DEEDC1AA}" alt="" height="135" width="200" hspace="" vspace="" />
+    - ID: "80901892-91f3-4263-92c7-b4900ea700d1"
+      Hint: Title
+      Value: Independence Day 2022
+    - ID: "859f2b34-b236-4c82-b10e-a3d7254181ea"
+      Hint: Brief
+      Value: Learn about India's Independence Day and know how the day is celebrated
+    - ID: "92b1c3e6-c0d7-48b2-bad3-c8f975b8e43c"
+      Hint: PublishedDate
+      Value: 20220212T030200Z
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

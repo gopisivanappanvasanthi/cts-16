@@ -1,0 +1,31 @@
+﻿---
+ID: "e6fb0e0e-7276-49d5-8cbd-ca98d3ca3946"
+Parent: "206428a0-033a-4a11-a471-3df4b120059b"
+Template: "3289a2d0-946a-41a5-b70d-26375d89f31a"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Gopi
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T031029Z
+    - ID: "37fe643e-aacb-442a-845b-87618dcf056a"
+      Hint: ProfileBrief
+      Value: This is a short brief on our leaders
+    - ID: "460bed58-6936-43e5-8919-2fda39ccdd85"
+      Hint: Designation
+      Value: CFO
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1
+    - ID: "b2b3d4ae-ca4c-4911-a261-235c211f3fc0"
+      Hint: LeaderName
+      Value: Gopi
+    - ID: "c643849e-fe5c-4555-bac4-52682345044b"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{3FAA5930-7FD6-4E75-998B-72429CE620D5}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Gopi/CtsProfile" title="" class="" linktype="internal" />

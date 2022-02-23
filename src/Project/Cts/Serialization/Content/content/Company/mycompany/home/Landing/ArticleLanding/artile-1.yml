@@ -1,0 +1,22 @@
+﻿---
+ID: "bc55e3ba-ddec-47ea-a926-81c0f79c740e"
+Parent: "1c9e07b2-0c1e-497f-8f14-7d1ed839d6b7"
+Template: "cda21264-94d1-4470-8025-0b50732171b0"
+Path: "/sitecore/content/Company/mycompany/home/Landing/ArticleLanding/artile-1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T043603Z
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

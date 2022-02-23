@@ -1,0 +1,30 @@
+﻿---
+ID: "054e6f6e-cd04-40e4-8d62-88ee0e2cdfaa"
+Parent: "50842fd2-4d16-45af-a77a-94a1592b836c"
+Template: "44613bda-15dd-47dc-a339-b3ac9328086e"
+Path: "/sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Dinesh/ProfilePage-For-Dinesh"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05b01c40-db0c-43b1-bd52-73385d30504d"
+      Hint: DateOfJoining
+      Value: 20211130T233000Z
+    - ID: "1a5924f6-5ec0-473c-a9f6-7d3e99186cac"
+      Hint: FirstName
+      Value: Dinesh 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T025918Z
+    - ID: "dd194feb-3511-4735-9de1-d138831a7a8b"
+      Hint: EmailId
+      Value: dinesh.sivanappan@email.com
+    - ID: "e4c73ee9-3dc3-460f-bef5-7cee91995c73"
+      Hint: LeadershipProfile
+      Value: |
+        <link id="{50842FD2-4D16-45AF-A77A-94A1592B836C}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Dinesh" title="" class="" linktype="internal" />
+    - ID: "ec9c2b3f-ba83-4f86-8a5f-7a22b0fc6bb0"
+      Hint: LastName
+      Value: Sivanappan

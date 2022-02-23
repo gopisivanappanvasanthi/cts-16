@@ -1,0 +1,174 @@
+﻿---
+ID: "5dabb070-19b7-4c24-a923-711aebf8f904"
+Parent: "25ed7484-4768-4851-8046-0283ab1e8ac9"
+Template: "216a905e-bb67-441f-bcff-6acdd2878554"
+Path: /sitecore/content/Company/mycompany/home
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{297E9D36-48AE-4143-B0F8-AFF07B1400D0}"
+          s:ccb="Clear on publish"
+          s:ds="{F4070FBA-70F6-4D15-A222-8D1258EE0F9A}"
+          s:par="" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{297E9D36-48AE-4143-B0F8-AFF07B1400D0}"
+              s:ds="{9C34C9EE-0CCE-4852-8AC1-4A774F523BC2}"
+              s:pt="{6BA097EE-3347-482F-94F3-2DD08F74EF15}"
+              s:uid="{297E9D36-48AE-4143-B0F8-AFF07B1400D0}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{C3AB8864-957A-4AB7-A048-D8D3E488602C}"
+                    s:name="Referer Url"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="4F4726E9011847BCAFFADE4876C092DC"
+                        s:id="{5C73B7B9-5BF7-425D-AD48-1F7362AB9092}"
+                        s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+                        s:Referrer="http://mycompany.sitecore.com/listing/startupjoiners" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="1400E801B0C048669BF0E1FA9070C5E8"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{F4070FBA-70F6-4D15-A222-8D1258EE0F9A}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{F2A64C07-3EBE-4A63-89E4-F65CCF46F1BF}"
+                    s:name="Wednesday - Article"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="532E01EC966545AA8D926DF28C57E520"
+                        s:id="{C18B0900-ED61-47A8-AEF0-AD6D133512C8}"
+                        s:DaysList="{8A19F2AA-ABB9-4496-A64E-56CDBE1C2D4C}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="0A1112E088584BCCAD016C119DFB3FD0"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{B77FA251-5CE8-430A-87C2-7339C27DD81A}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="84B02F65BCA54554BC38B1777AB982EB"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="F9EE3C3CD161473380F6E705049CF871"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{BC55E3BA-DDEC-47EA-A926-81C0F79C740E}" />
+                    </actions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{3DDCFB9B-55A3-48A4-8368-94D86B2D0509}"
+              p:after="*[1=2]"
+              s:ds="{DDC4DD93-DEC6-4D71-AB5C-C2C646150F78}"
+              s:id="{344DF955-8429-42AC-89D4-F621B67A0EE1}"
+              s:pt="{6BA097EE-3347-482F-94F3-2DD08F74EF15}"
+              s:par=""
+              s:ph="cts-main">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{232D501F-D282-4765-AEA2-EE7AA4C07B40}"
+                    s:name="Browser Chrome"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="5E353BD8B83642F9828FA595C22442B3"
+                        s:id="{9A4DADE8-93F9-4973-A675-CB2B2967C4B8}"
+                        s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+                        s:value="chrome" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="B301669F66DD40CAAC03657CA6A9A0E9"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{35EFEAAE-186E-4871-9DAF-B28E30E88617}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{696A3FB2-61F1-49DB-9E81-487459CFD17A}"
+                    s:name="Device Computer"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="BF94362AC3154A8F9A9C7133553BDD8C"
+                        s:id="{F563E8D0-1D8A-4744-BD90-3C8D7E483884}"
+                        s:Value="{B8E0B251-233D-4FA9-9DF9-5D38450E00D9}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="18512FCFEA7C44299B94A430E8F69237"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{5F3E0E9C-458B-40C9-9AE8-0ADE3A84DFF9}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="F9E221905679401A9EDF4A1603AE9BA0"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="473A54B666D04E559227475B3E2A1453"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{DDC4DD93-DEC6-4D71-AB5C-C2C646150F78}" />
+                    </actions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T025721Z
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

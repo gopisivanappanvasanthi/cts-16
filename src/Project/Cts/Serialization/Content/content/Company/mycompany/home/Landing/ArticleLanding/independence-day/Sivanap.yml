@@ -1,0 +1,27 @@
+﻿---
+ID: "042d1cd7-aa91-4ab4-b693-df0ad056cea4"
+Parent: "b77fa251-5ce8-430a-87c2-7339c27dd81a"
+Template: "f846d510-aa86-423f-a87c-32891375dc31"
+Path: "/sitecore/content/Company/mycompany/home/Landing/ArticleLanding/independence-day/Sivanap"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T034658Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "bf50b542-4046-4506-9ed5-ab6a3b6b979f"
+      Hint: Name
+      Value: Sivanap
+    - ID: "ea633263-1611-45b5-8d25-ebfecbff1029"
+      Hint: Comments
+      Value: Gopi
+    - ID: "fe598210-dc0f-4f36-a40a-8ec224a07abd"
+      Hint: EmailId
+      Value: sivagn@gmail.com

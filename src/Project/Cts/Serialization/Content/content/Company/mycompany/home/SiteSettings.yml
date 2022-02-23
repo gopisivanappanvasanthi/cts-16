@@ -1,0 +1,18 @@
+﻿---
+ID: "1baa3cc2-108b-4f0c-9e8a-27173761f144"
+Parent: "5dabb070-19b7-4c24-a923-711aebf8f904"
+Template: "3712c5b2-6686-49fd-844f-b105f748f075"
+Path: /sitecore/content/Company/mycompany/home/SiteSettings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T031544Z
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 0

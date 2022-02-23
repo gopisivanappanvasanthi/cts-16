@@ -1,0 +1,47 @@
+﻿---
+ID: "7fea2aaa-5c3d-485d-a260-ec5d68d2732b"
+Parent: "206428a0-033a-4a11-a471-3df4b120059b"
+Template: "3289a2d0-946a-41a5-b70d-26375d89f31a"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Bharathi
+DB: master
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Type: Checkbox
+  Value: 0
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T031036Z
+    - ID: "37fe643e-aacb-442a-845b-87618dcf056a"
+      Hint: ProfileBrief
+      Value: This is a short brief on our leaders
+    - ID: "460bed58-6936-43e5-8919-2fda39ccdd85"
+      Hint: Designation
+      Value: Director
+    - ID: "526d6c61-08f8-4811-b689-8d5e37eaa7ec"
+      Hint: Articles
+      Type: Treelist
+      Value: |
+        {BC55E3BA-DDEC-47EA-A926-81C0F79C740E}
+        {35EFEAAE-186E-4871-9DAF-B28E30E88617}
+        {DDC4DD93-DEC6-4D71-AB5C-C2C646150F78}
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1
+    - ID: "b2b3d4ae-ca4c-4911-a261-235c211f3fc0"
+      Hint: LeaderName
+      Value: Bharathi
+    - ID: "c643849e-fe5c-4555-bac4-52682345044b"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{C4EAD9D0-B4D0-43E6-B3BF-1A775C5B518C}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Bharathi/CtsProfile" title="" class="" linktype="internal" />

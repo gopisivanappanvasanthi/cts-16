@@ -1,0 +1,26 @@
+﻿---
+ID: "3faa5930-7fd6-4e75-998b-72429ce620d5"
+Parent: "e6fb0e0e-7276-49d5-8cbd-ca98d3ca3946"
+Template: "44613bda-15dd-47dc-a339-b3ac9328086e"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Gopi/CtsProfile
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05b01c40-db0c-43b1-bd52-73385d30504d"
+      Hint: DateOfJoining
+      Value: 20220126T183000Z
+    - ID: "1a5924f6-5ec0-473c-a9f6-7d3e99186cac"
+      Hint: FirstName
+      Value: Gopi
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T031134Z
+    - ID: "dd194feb-3511-4735-9de1-d138831a7a8b"
+      Hint: EmailId
+      Value: mail@mail.com
+    - ID: "ec9c2b3f-ba83-4f86-8a5f-7a22b0fc6bb0"
+      Hint: LastName
+      Value: Siva

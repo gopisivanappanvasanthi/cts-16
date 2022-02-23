@@ -1,0 +1,41 @@
+﻿---
+ID: "50842fd2-4d16-45af-a77a-94a1592b836c"
+Parent: "206428a0-033a-4a11-a471-3df4b120059b"
+Template: "3289a2d0-946a-41a5-b70d-26375d89f31a"
+Path: /sitecore/content/Company/mycompany/home/Listing/StartUpJoiners/Dinesh
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T054402Z
+    - ID: "37fe643e-aacb-442a-845b-87618dcf056a"
+      Hint: ProfileBrief
+      Value: Dinesh with 20 years of experience in web application development, pioneers in handling US based brands. 
+    - ID: "460bed58-6936-43e5-8919-2fda39ccdd85"
+      Hint: Designation
+      Value: CEO
+    - ID: "526d6c61-08f8-4811-b689-8d5e37eaa7ec"
+      Hint: Articles
+      Type: Treelist
+      Value: |
+        {B77FA251-5CE8-430A-87C2-7339C27DD81A}
+        {F4070FBA-70F6-4D15-A222-8D1258EE0F9A}
+    - ID: "97264eef-ff6a-4a61-a978-d28605522798"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1
+    - ID: "b2b3d4ae-ca4c-4911-a261-235c211f3fc0"
+      Hint: LeaderName
+      Value: Dinesh
+    - ID: "c643849e-fe5c-4555-bac4-52682345044b"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{054E6F6E-CD04-40E4-8D62-88EE0E2CDFAA}" querystring="" text="" anchor="" url="/Company/mycompany/home/Listing/StartUpJoiners/Dinesh/ProfilePage-For-Dinesh" title="" class="" linktype="internal" />
+    - ID: "f5cabb14-bda0-43a6-9408-002578908bad"
+      Hint: Image
+      Value: |
+        <image mediaid="{7B997E07-68BD-44EB-AF47-F4E87CFC0276}" alt="" height="500" width="500" hspace="" vspace="" />
