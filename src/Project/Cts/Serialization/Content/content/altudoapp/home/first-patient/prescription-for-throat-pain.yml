@@ -2,7 +2,7 @@
 ID: "2339779b-aaf7-4e75-90f0-d853c5a682e7"
 Parent: "d6cf72c4-bd60-4e2c-8e0e-496a08b82798"
 Template: "8bcff206-b46b-497c-b24b-356e8e38da12"
-Path: "/sitecore/content/altudoapp/home/patient-info-first-patient/Page Components/first-patient/prescription-for-throat-pain"
+Path: "/sitecore/content/altudoapp/home/first-patient/prescription-for-throat-pain"
 DB: master
 Languages:
 - Language: en

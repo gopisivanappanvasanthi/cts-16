@@ -2,7 +2,7 @@
 ID: "5f051d70-b130-5433-a1c1-769d885e32d5"
 Parent: "265e2146-3f22-5767-92ab-24507de3e9a4"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/altudoapp/home/patient-info-first-patient/Page Components"
+Path: "/sitecore/content/altudoapp/home/to-be-deleted-patient-info-first-patient/Page Components"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

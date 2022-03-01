@@ -8,6 +8,9 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: PatientRecords
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{C951B678-2C83-4356-AFBF-03902C8FB82E}"
 Languages:
 - Language: en
   Versions:

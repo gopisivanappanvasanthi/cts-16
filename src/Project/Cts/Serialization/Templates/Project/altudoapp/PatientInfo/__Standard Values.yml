@@ -8,6 +8,27 @@ SharedFields:
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{D912220A-D87A-57F0-89A6-1D0CB36D59E3}">
+        <r
+          ds=""
+          id="{30E2D159-4DBB-5CF5-AB05-F07166D50783}"
+          par=""
+          ph="jss-main"
+          uid="{526D503D-B6ED-4064-AC8D-1224B81C436E}"
+          ccb="Clear on publish" />
+        <r
+          id="{0F8598E9-D7E4-4EA4-9F2E-21F35358B76F}"
+          ph="jss-main"
+          uid="{B2B44953-2F44-403C-80D4-1E348BFD8082}" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:

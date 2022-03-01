@@ -1,8 +1,8 @@
 ﻿---
-ID: "4e101dcf-a12e-46d3-bd74-052512bfac9e"
+ID: "a98a26d2-1699-4be9-94c3-c4fe3fd89134"
 Parent: "d6cf72c4-bd60-4e2c-8e0e-496a08b82798"
 Template: "8bcff206-b46b-497c-b24b-356e8e38da12"
-Path: "/sitecore/content/altudoapp/home/patient-info-first-patient/Page Components/first-patient/prescription-for-fever"
+Path: "/sitecore/content/altudoapp/home/first-patient/prescription-for-stomach-ache"
 DB: master
 Languages:
 - Language: en
@@ -21,4 +21,4 @@ Languages:
       Value: 20220227T183000Z
     - ID: "f397c698-533b-4185-8305-4656fe17974c"
       Hint: prescription
-      Value: Paracetomol 1 daily 650mg
+      Value: erothromicine 500mg 1 daily

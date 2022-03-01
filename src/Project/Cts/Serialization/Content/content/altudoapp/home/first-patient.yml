@@ -1,13 +1,16 @@
 ﻿---
 ID: "d6cf72c4-bd60-4e2c-8e0e-496a08b82798"
-Parent: "5f051d70-b130-5433-a1c1-769d885e32d5"
+Parent: "192da1f2-2e8a-5695-abfa-26a4fc348cfb"
 Template: "e77f9177-3ac7-535a-ad48-0d455b34cf0d"
-Path: "/sitecore/content/altudoapp/home/patient-info-first-patient/Page Components/first-patient"
+Path: "/sitecore/content/altudoapp/home/first-patient"
 DB: master
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 550
 Languages:
 - Language: en
   Versions:

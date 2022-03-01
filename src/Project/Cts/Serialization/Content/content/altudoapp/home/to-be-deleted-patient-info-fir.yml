@@ -2,12 +2,15 @@
 ID: "265e2146-3f22-5767-92ab-24507de3e9a4"
 Parent: "192da1f2-2e8a-5695-abfa-26a4fc348cfb"
 Template: "463067a4-5803-51c8-9c51-9e66b1e68f82"
-Path: "/sitecore/content/altudoapp/home/patient-info-first-patient"
+Path: "/sitecore/content/altudoapp/home/to-be-deleted-patient-info-first-patient"
 DB: master
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
