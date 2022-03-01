@@ -12,6 +12,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20220228T054308Z
+    - ID: "262aaa23-a643-4a22-8669-dfc0f378235e"
+      Hint: patientName
+      Value: fake name
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -19,3 +22,6 @@ Languages:
     - ID: "74ebde76-eada-4b3b-9640-d57900e206a8"
       Hint: patientPrescription
       Value: asprin
+    - ID: "db222e8d-a0bc-465b-8a0b-f16399da9fa9"
+      Hint: patientAge
+      Value: 234

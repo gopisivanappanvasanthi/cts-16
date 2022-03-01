@@ -10,7 +10,7 @@ SharedFields:
   Value: PatientRecord
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
-  Value: "{6CCCBCDE-5E95-44E4-AE66-CFE7D3A0589E}"
+  Value: "{418DA196-13A8-45DD-9549-B5B88F3E9C56}"
 Languages:
 - Language: en
   Versions:
