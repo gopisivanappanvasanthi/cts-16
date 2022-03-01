@@ -38,21 +38,16 @@ namespace Cts.Feature.Common.Resolvers
             var fakeItemDefinition = new ItemDefinition
                                             (fakeId, 
                                             item.Name, 
-                                            new ID("{33C6F6DE-B97E-4455-968F-A3076CA58C9E}"), //template id
+                                            new ID("{33C6F6DE-B97E-4455-968F-A3076CA58C9E}"), //template id (new template)
                                             ID.Null);
             //creating fields list
             var fields = new FieldList();
             //fields id
-            fields.Add(new ID("{74EBDE76-EADA-4B3B-9640-D57900E206A8}"), item.Fields["patientPrescription"].Value);
+            fields.Add(new ID("{06EAA180-7A71-4558-B36E-F660E4536F66}"), item.Fields["patientPrescription"].Value);
             //assembling into a item data
             var itemData = new ItemData(fakeItemDefinition, Language.Current, Sitecore.Data.Version.First, fields);
 
             Item newItem = new Item(fakeId, itemData, Sitecore.Context.Database);
-            using (new SecurityDisabler()) {
-                newItem.Editing.BeginEdit();
-                newItem.Fields["patientPrescription"].Value = item.Fields["patientPrescription"].Value;
-                newItem.Editing.EndEdit();
-            }
             return newItem;
         }
     }
