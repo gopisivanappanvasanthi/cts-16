@@ -1,0 +1,31 @@
+﻿---
+ID: "01a9438c-83b8-5e6b-b0eb-c15cc4cf2dd3"
+Parent: "77a1331a-5320-5f4e-a65b-a7491fbfbe9b"
+Template: "1b896521-cfc8-51ec-815c-3cb137c70255"
+Path: "/sitecore/content/altudoapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-2DC6F673949B444299BAB3374AFBA216DE2E4A2FC06DE66DB0A60C7DC44909155D"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-SitecoreContext-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122135Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8324cb6a-4ba7-58d5-a501-e542b52ede9f"
+      Hint: heading
+      Value: Sitecore Context
+    - ID: "b5f59c1c-4a8b-57aa-b1b0-8cdb13e182b2"
+      Hint: description
+      Value: "<p><small>The Sitecore Context contains route-level data about the current context - for example, <code>pageState</code> enables conditionally executing code based on whether Sitecore is in Experience Editor or not.</small></p>"

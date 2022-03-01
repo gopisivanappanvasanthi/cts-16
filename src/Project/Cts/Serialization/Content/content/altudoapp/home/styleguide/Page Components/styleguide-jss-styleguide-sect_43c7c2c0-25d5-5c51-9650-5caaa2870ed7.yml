@@ -1,0 +1,36 @@
+﻿---
+ID: "43c7c2c0-25d5-5c51-9650-5caaa2870ed7"
+Parent: "77a1331a-5320-5f4e-a65b-a7491fbfbe9b"
+Template: "e604fd21-faee-56c8-95b1-e2a149d02fb4"
+Path: "/sitecore/content/altudoapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B78937DAD4FF4C1B82D6AEC0555633BBACC1FDD9F8CB46D9E358E84784A1E510EA"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Image-4"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "032f436a-bb2e-55e0-90d1-bba748fad25a"
+      Hint: sample2
+      Value: |
+        <image mediaid="{EAF28199-FC20-529B-AFA0-76672FF8BF9F}" alt="Sitecore JSS Logo" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122133Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "4c13c367-2c72-5c06-beb2-1000a19c31bb"
+      Hint: sample1
+      Value: |
+        <image mediaid="{14DD7980-8B77-535E-9CF3-358B1C19498C}" alt="Sitecore Logo" />
+    - ID: "8324cb6a-4ba7-58d5-a501-e542b52ede9f"
+      Hint: heading
+      Value: Image

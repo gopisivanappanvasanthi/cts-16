@@ -1,0 +1,54 @@
+﻿---
+ID: "bb3ac082-7ea0-4ac5-a094-6389b060c7ce"
+Parent: "2a58ed44-d0b5-5e43-91ac-54deab0e6d5e"
+Template: "87cca421-7519-57b4-993c-cf694ad83423"
+Path: "/sitecore/content/cts/home/test-prescription-page"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8B248CDD-D5EF-53A3-9DDB-8C30859F2FEA}">
+        <r
+          id="{812A9ACD-DDD2-4ED8-AADE-F1E6B0670D83}"
+          ph="jss-main"
+          uid="{0E50B82B-AD8F-4CA6-B0C4-F65D11ED2202}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T004553Z
+    - ID: "3833d533-324f-5769-b0a4-aaff55f51094"
+      Hint: patientName
+      Value: test
+    - ID: "3bc5ea33-7aa3-52e2-bd76-a6e9993ca7f6"
+      Hint: date
+      Value: 20220228T010000Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "583721ad-d570-5487-a4fd-dcabd56f9a91"
+      Hint: presriptionSummary
+      Value: test
+    - ID: "5a0e0701-8cd4-5c65-b53b-9b9d62d324b8"
+      Hint: age
+      Value: 2
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "69b11ffa-e731-5ece-9de4-bb7c8d849335"
+      Hint: ailmentSummary
+      Value: test

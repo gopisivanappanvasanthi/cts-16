@@ -1,0 +1,36 @@
+﻿---
+ID: "d1185b27-5527-4e24-b51f-549a2fef70cc"
+Parent: "d527f1bb-9faf-5a1b-9b80-56b4b78a74c8"
+Template: "860d7fc1-2501-481f-9750-96e931152e22"
+Path: "/sitecore/content/molina/home/second-patient-info"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1179a01a-9879-4f9c-b1cd-9cd8a5fb76aa"
+      Hint: lastName
+      Value: Patient
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T053424Z
+    - ID: "3af4c18c-5390-402c-bb4f-9a68d787339b"
+      Hint: dob
+      Value: "3-April-2021"
+    - ID: "8d634d73-7f9b-4d61-aa61-32c27ea75544"
+      Hint: gender
+      Value: Female
+    - ID: "906c696b-e4c1-4806-ae6f-a88b246357db"
+      Hint: phoneNumber
+      Value: 234343
+    - ID: "9a774ed9-7726-40dc-bd8a-9578f0cd7974"
+      Hint: firstName
+      Value: Second
+    - ID: "cd301434-9c69-42db-bc62-c63cfba039ce"
+      Hint: records
+      Type: Multilist
+      Value: |
+        {424D9E69-5297-4848-AD1C-101C2257DA9D}
+        {FB87F9B9-30B5-42E2-8310-D53C6F87EC8D}
+        {56653EC0-1989-4810-921F-8541732F1A8B}

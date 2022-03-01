@@ -1,0 +1,43 @@
+﻿---
+ID: "1a7288a6-e7a5-4043-a9ce-4e7186d29b15"
+Parent: "2a58ed44-d0b5-5e43-91ac-54deab0e6d5e"
+Template: "cffdd19f-9bbe-57fb-ba51-076f5e3b2c42"
+Path: /sitecore/content/cts/home/Test
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{05DBAC60-3011-4D4A-810D-980A2BF4A03B}"
+          p:after="*[1=2]"
+          s:ds="{C36DC457-449B-4ACB-A0F9-8D18C7D87D8D}"
+          s:id="{FE1E9EE7-3BC3-5FA9-8CF5-B7CB288ED9E2}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T001011Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

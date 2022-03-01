@@ -1,0 +1,28 @@
+﻿---
+ID: "e2c6f636-9611-51df-a132-67bd1a6d9fed"
+Parent: "de7d5940-7767-5429-9467-7b223fcc032d"
+Template: "7e5f0202-e60b-5abe-9e6a-c758e3ea2065"
+Path: /sitecore/content/altudoapp/Content/Styleguide/ItemLinkField/Item2
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Item Link Item 2 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122132Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "b914ffd3-4ce9-59fe-a3c5-9bdcd3713a93"
+      Hint: textField
+      Value: ItemLink Demo (Shared) Item 2 Text Field

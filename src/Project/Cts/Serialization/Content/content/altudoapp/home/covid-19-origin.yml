@@ -1,0 +1,42 @@
+﻿---
+ID: "a08a8789-a1c2-571a-98f5-c33dae8a0cad"
+Parent: "192da1f2-2e8a-5695-abfa-26a4fc348cfb"
+Template: "463067a4-5803-51c8-9c51-9e66b1e68f82"
+Path: "/sitecore/content/altudoapp/home/covid-19-origin"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{42AE273D-CBD1-5D5C-B28D-561B412F19B4}"
+              p:after="*[1=2]"
+              s:rname="ArticleDetails"
+              s:ds="{B1FB794B-7854-5B56-88E2-9440CED2A788}"
+              s:id="{AE7E0CEB-FE4C-5C5C-8F39-7A69B02642B4}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122132Z
+    - ID: "3d9d1e68-8a9f-572b-8154-d20b478da98a"
+      Hint: pageTitle
+      Value: "Altudo - Covid 19 Origin Article"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"

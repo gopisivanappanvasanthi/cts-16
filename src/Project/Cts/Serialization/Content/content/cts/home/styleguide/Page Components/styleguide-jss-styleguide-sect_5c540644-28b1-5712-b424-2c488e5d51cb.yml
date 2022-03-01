@@ -1,0 +1,52 @@
+﻿---
+ID: "5c540644-28b1-5712-b424-2c488e5d51cb"
+Parent: "1f92aa32-a857-5801-b0b2-c02b517d3bef"
+Template: "4e13721b-89c8-5d09-b967-6a63dca84625"
+Path: "/sitecore/content/cts/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ce9b43f-0227-5afa-a8fe-eae227cfefa5"
+      Hint: heading
+      Value: Content List
+    - ID: "0dd5f10d-52cd-56c5-bb02-70aa85e92a14"
+      Hint: sharedContentList
+      Type: Treelist
+      Value: |
+        {B10E80FB-84F0-5A20-8017-D5CE68F1FD00}
+        {B2ED9221-F14E-5FFD-8E56-E9FBEAFDA64D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T044647Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "6d605dad-3d69-5aa1-b843-10cecfa62333"
+      Hint: localContentList
+      Type: Treelist
+      Value: |
+        {F73964B1-D9B5-5FD7-9A78-E4B78689BDC1}
+        {FF594B80-639B-5F21-9483-7A5B82E8C617}
+    - ID: "a4169aaf-86e7-5bab-af83-b557849d9f55"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        

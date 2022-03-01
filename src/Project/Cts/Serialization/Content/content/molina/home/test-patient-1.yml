@@ -1,0 +1,43 @@
+﻿---
+ID: "3b9ebf72-4fbe-4fe9-bcbe-123c16e7c142"
+Parent: "d527f1bb-9faf-5a1b-9b80-56b4b78a74c8"
+Template: "1eb118a3-7853-5bdb-9cd0-f4ab377b8621"
+Path: "/sitecore/content/molina/home/test-patient-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7CDDACF7-8D88-4C36-A67D-7808EA3C356B}"
+          p:after="*[1=2]"
+          s:ds="{72D77DFC-7C8C-424D-B301-6C3D621A5FB4}"
+          s:id="{E966E1E3-67BD-44F9-8936-8F3F7B36A5AC}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T032454Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

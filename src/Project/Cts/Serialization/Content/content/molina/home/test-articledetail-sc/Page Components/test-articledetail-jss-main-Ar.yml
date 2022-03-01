@@ -1,0 +1,34 @@
+﻿---
+ID: "70716ef3-681f-53f0-86fa-c60d3b0b5274"
+Parent: "5a2e5672-1e7f-5d16-bdb1-f5efaec51582"
+Template: "d1d35499-c647-5674-bd73-2dde97ce2ff8"
+Path: "/sitecore/content/molina/home/test-articledetail-sc/Page Components/test-articledetail-jss-main-ArticleDetail-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ArticleDetail-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T022339Z
+    - ID: "335906e9-27a3-5d59-bc3d-3c30fba998c6"
+      Hint: articleDetailedDescription
+      Value: Test
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "aacd1cbb-6d33-5928-9347-027aa49120f0"
+      Hint: articleTitle
+      Value: My first component
+    - ID: "cdede37a-d73f-5562-97e1-aa867f77b731"
+      Hint: articleShortDescription
+      Value: This is now modified in sitecore and i am getting this content from sitecore on my page.&nbsp;

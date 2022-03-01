@@ -1,0 +1,24 @@
+﻿---
+ID: "a98a26d2-1699-4be9-94c3-c4fe3fd89134"
+Parent: "d6cf72c4-bd60-4e2c-8e0e-496a08b82798"
+Template: "8bcff206-b46b-497c-b24b-356e8e38da12"
+Path: "/sitecore/content/altudoapp/home/patient-info-first-patient/Page Components/first-patient/prescription-for-stomach-ache"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T113535Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65ea00c5-c257-42e9-b07a-f5b0d097bcfb"
+      Hint: dateOfPrescription
+      Value: 20220227T183000Z
+    - ID: "f397c698-533b-4185-8305-4656fe17974c"
+      Hint: prescription
+      Value: erothromicine 500mg 1 daily

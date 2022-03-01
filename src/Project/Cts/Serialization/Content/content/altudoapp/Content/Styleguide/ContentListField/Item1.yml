@@ -1,0 +1,28 @@
+﻿---
+ID: "644099ef-ec9c-5c7b-8044-dc75482331a4"
+Parent: "0f2a9685-3784-54c7-9cfe-4078402a5876"
+Template: "6b70368a-dbee-5452-a233-4ba455e74c51"
+Path: /sitecore/content/altudoapp/Content/Styleguide/ContentListField/Item1
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 1 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122132Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8a00ebba-869a-5b4d-b8fb-ad4795407349"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 1 Text Field

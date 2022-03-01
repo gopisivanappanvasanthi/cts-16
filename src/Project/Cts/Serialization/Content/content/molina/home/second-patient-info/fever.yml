@@ -1,0 +1,21 @@
+﻿---
+ID: "56653ec0-1989-4810-921f-8541732f1a8b"
+Parent: "d1185b27-5527-4e24-b51f-549a2fef70cc"
+Template: "6408871f-8924-49df-85f4-88d86ad92517"
+Path: "/sitecore/content/molina/home/second-patient-info/fever"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T054247Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "74ebde76-eada-4b3b-9640-d57900e206a8"
+      Hint: patientPrescription
+      Value: paracetomol

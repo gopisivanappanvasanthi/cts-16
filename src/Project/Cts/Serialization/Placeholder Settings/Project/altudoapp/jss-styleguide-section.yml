@@ -1,0 +1,48 @@
+﻿---
+ID: "d5ab3568-65c0-5685-a524-bf4c294dcfe4"
+Parent: "bc7f2cb6-5dbf-5b46-9269-1bfce536922c"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/altudoapp/jss-styleguide-section"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-styleguide-section"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 1
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {72758402-4A3A-5BD4-BB40-80E5BFD556C3}
+    {26E60E71-2E47-5415-BE3C-5A2A269A2BB6}
+    {642E7226-2110-50D5-8716-0F4B97820BDA}
+    {3FD79717-F0D0-5F94-82AC-3CAAD998EFFD}
+    {81CCE6A6-3437-5360-93F0-9A93E3C3EBD1}
+    {247005E0-3064-52E2-B77A-31B32E454E58}
+    {EF03DFC9-05E0-5B94-8E76-F1A099984ADA}
+    {862271D9-7CC3-5D84-950B-E9180445C491}
+    {65BDD144-F81E-5BD7-B74E-5B973682E57E}
+    {DD22AFE7-0C52-5E45-9734-8FDC81C19200}
+    {B447C015-9369-5784-93E9-A274A535E2FD}
+    {FCA43426-67BA-5832-B9B9-DB087D69D7C5}
+    {33926886-5583-5439-A89F-9A0468705320}
+    {6A64B43F-E0DF-5486-B2AA-ADA2675F343E}
+    {4BF0A0A9-887E-5E72-B5FB-19755FCD9A37}
+    {CB5A4240-70E1-5FBD-9A43-5BB9B2416556}
+    {C606E760-4272-5BCF-925C-D1B497A87C67}
+    {F26CB30A-5520-5807-8432-85A0E85E2AF8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122129Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

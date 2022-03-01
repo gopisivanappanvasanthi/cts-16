@@ -1,0 +1,28 @@
+﻿---
+ID: "07a3d62d-7464-53ca-a47a-04043578ae76"
+Parent: "77a1331a-5320-5f4e-a65b-a7491fbfbe9b"
+Template: "0acbf463-d534-50b3-a974-01cf30662302"
+Path: "/sitecore/content/altudoapp/home/styleguide/Page Components/styleguide-jss-styleguide-layout-34A6553C-81DE-5CD3-989E-853F6CB6DF8C-0-Styleguide-Section-4"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Section-4"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0404d4b6-27f3-53de-9fdf-d0984ef05cc8"
+      Hint: heading
+      Value: Multilingual Patterns
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122135Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"

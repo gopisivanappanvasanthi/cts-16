@@ -1,0 +1,29 @@
+﻿---
+ID: "72d77dfc-7c8c-424d-b301-6c3d621a5fb4"
+Parent: "716c2a53-1661-4c36-8166-8e8fc4114757"
+Template: "860d7fc1-2501-481f-9750-96e931152e22"
+Path: "/sitecore/content/molina/home/test-patient-record/data-test-patient-1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1179a01a-9879-4f9c-b1cd-9cd8a5fb76aa"
+      Hint: lastName
+      Value: New
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T032255Z
+    - ID: "3af4c18c-5390-402c-bb4f-9a68d787339b"
+      Hint: dob
+      Value: "1-jan-2022"
+    - ID: "8d634d73-7f9b-4d61-aa61-32c27ea75544"
+      Hint: gender
+      Value: Male
+    - ID: "906c696b-e4c1-4806-ae6f-a88b246357db"
+      Hint: phoneNumber
+      Value: 092834
+    - ID: "9a774ed9-7726-40dc-bd8a-9578f0cd7974"
+      Hint: firstName
+      Value: Patient 1

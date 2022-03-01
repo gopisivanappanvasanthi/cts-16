@@ -1,0 +1,31 @@
+﻿---
+ID: "c0a0c91c-f4dc-5cfb-9ac7-c5677bb63492"
+Parent: "1f92aa32-a857-5801-b0b2-c02b517d3bef"
+Template: "74f26611-869b-5d09-b45c-56904733e5fb"
+Path: "/sitecore/content/cts/home/styleguide/Page Components/styleguide-jss-tabs-538E4831-F157-50BB-AC74-277FCAC9FDDB-0-Styleguide-Layout-Tabs-Tab-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Layout-Tabs-Tab-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T044648Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "97b25ae2-c187-5e16-8451-2cb9de83b2eb"
+      Hint: content
+      Value: "<p>Tab 1 contents!</p>"
+    - ID: "abe44b88-1623-5645-b97f-29afeb16900e"
+      Hint: title
+      Value: Tab 1

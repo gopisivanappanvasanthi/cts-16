@@ -1,0 +1,37 @@
+﻿---
+ID: "c4d176cf-d35e-5d81-8ada-55fea878c936"
+Parent: "4e174c25-3387-5fbe-aae2-b82bc2788ec5"
+Template: "b1d448b5-9a99-5e12-86c9-51b21be5da3f"
+Path: "/sitecore/content/cts/home/graphql/author-detail-page-sample/Page Components/author-detail-page-sample-jss-main-AuthorDetail-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "AuthorDetail-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ad5fc52-62e3-54e8-af8e-cae0ffe4663f"
+      Hint: emailId
+      Value: test@test.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T003221Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5ac146d5-02a5-5a36-af7c-517a9976a9ea"
+      Hint: designation
+      Value: Sr. Architect
+    - ID: "5d2bada0-b945-5efe-8819-1a7b07285eff"
+      Hint: name
+      Value: Test Author
+    - ID: "c9a5c510-8826-594e-9953-d6b200024de1"
+      Hint: phoneNumber
+      Value: 2309485343

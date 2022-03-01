@@ -1,0 +1,42 @@
+﻿---
+ID: "a1d5fe77-a7b4-5b55-a4a4-d4a386dd4047"
+Parent: "6e9fd220-e5c3-52ed-9109-c9aa3baddb71"
+Template: "463067a4-5803-51c8-9c51-9e66b1e68f82"
+Path: "/sitecore/content/altudoapp/home/graphql/sample-2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5C424448-2B30-5910-ABE7-5021B762D542}"
+              p:after="*[1=2]"
+              s:rname="ContentBlock"
+              s:ds="{A6912A4F-7F4B-5418-AC69-D74A66E33DAC}"
+              s:id="{7C193C00-6C3A-50CC-8DDE-F638A4586EC6}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122133Z
+    - ID: "3d9d1e68-8a9f-572b-8154-d20b478da98a"
+      Hint: pageTitle
+      Value: Sample 2 Page Title
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"

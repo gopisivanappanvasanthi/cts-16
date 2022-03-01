@@ -1,0 +1,22 @@
+﻿---
+ID: "b5314b4e-092d-5d33-8ed8-78e328d9d386"
+Parent: "bf5be1b2-2777-589d-ace8-e838b5f53071"
+Template: "bf5be1b2-2777-589d-ace8-e838b5f53071"
+Path: "/sitecore/templates/Project/altudoapp/Styleguide-FieldUsage-Number/__Standard Values"
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122126Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

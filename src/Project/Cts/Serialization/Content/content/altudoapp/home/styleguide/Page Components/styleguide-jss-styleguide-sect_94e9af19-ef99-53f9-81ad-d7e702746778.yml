@@ -1,0 +1,31 @@
+﻿---
+ID: "94e9af19-ef99-53f9-81ad-d7e702746778"
+Parent: "77a1331a-5320-5f4e-a65b-a7491fbfbe9b"
+Template: "1088b919-e1ef-58f8-9b70-09c91075a7be"
+Path: "/sitecore/content/altudoapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-7DE41A1A-24E4-5963-8206-3BB0B7D9DD69-0-Styleguide-Layout-Reuse-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Layout-Reuse-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122134Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8324cb6a-4ba7-58d5-a501-e542b52ede9f"
+      Hint: heading
+      Value: Reusing Content
+    - ID: "b5f59c1c-4a8b-57aa-b1b0-8cdb13e182b2"
+      Hint: description
+      Value: <p>JSS provides powerful options to reuse content, whether it's sharing a common piece of text across pages or sketching out a site with repeating <em>lorem ipsum</em> content.</p>

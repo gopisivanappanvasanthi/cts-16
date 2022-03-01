@@ -1,0 +1,39 @@
+﻿---
+ID: "f4d7da1c-312c-51b4-85b6-7574b9f773a4"
+Parent: "43cfa90a-4272-53e5-9495-fd4529d55ec7"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/cts/jss-main"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-main"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 1
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {4A4F118F-4BBD-5D97-B088-E44EC14BB689}
+    {91DC91FE-071B-553A-B7B7-35FF71349414}
+    {CEA35D66-4891-5C98-BA01-53A889BC4DFC}
+    {C8A0AFF4-89A9-5940-B313-3F90F9D125FA}
+    {25898F2F-198E-57C8-B9AD-47FB9E6CAEEB}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T044642Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

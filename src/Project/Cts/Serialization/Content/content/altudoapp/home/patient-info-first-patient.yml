@@ -1,0 +1,50 @@
+﻿---
+ID: "265e2146-3f22-5767-92ab-24507de3e9a4"
+Parent: "192da1f2-2e8a-5695-abfa-26a4fc348cfb"
+Template: "463067a4-5803-51c8-9c51-9e66b1e68f82"
+Path: "/sitecore/content/altudoapp/home/patient-info-first-patient"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{3B9DE01B-3DFE-4F35-A563-55DB94CA7477}"
+          p:after="p[@uid='{CCF0F645-2430-5605-B7D9-B1BF4E69E39C}']"
+          s:ds="{D6CF72C4-BD60-4E2C-8E0E-496A08B82798}"
+          s:id="{30E2D159-4DBB-5CF5-AB05-F07166D50783}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{1F4256A7-BD80-4FB9-BA0E-F1B42F4DDA9A}"
+          p:after="*[1=2]"
+          s:ds="{D6CF72C4-BD60-4E2C-8E0E-496A08B82798}"
+          s:id="{0F8598E9-D7E4-4EA4-9F2E-21F35358B76F}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T094211Z
+    - ID: "3d9d1e68-8a9f-572b-8154-d20b478da98a"
+      Hint: pageTitle
+      Value: Patient Infomation Page
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"

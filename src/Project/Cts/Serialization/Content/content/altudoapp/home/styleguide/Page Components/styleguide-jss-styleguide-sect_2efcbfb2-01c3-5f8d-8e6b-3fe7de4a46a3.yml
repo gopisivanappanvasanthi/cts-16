@@ -1,0 +1,37 @@
+﻿---
+ID: "2efcbfb2-01c3-5f8d-8e6b-3fe7de4a46a3"
+Parent: "77a1331a-5320-5f4e-a65b-a7491fbfbe9b"
+Template: "dbd5d820-bc66-534f-b2fd-24d7831fb27c"
+Path: "/sitecore/content/altudoapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7B6D0D083AF28BE2E849050EECB75276B05E9E7DBBA39FDE6E41E6CA301251D4F"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-File-5"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122134Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8324cb6a-4ba7-58d5-a501-e542b52ede9f"
+      Hint: heading
+      Value: File
+    - ID: "9dad6721-8008-5930-b059-ce591631585e"
+      Hint: file
+      Value: |
+        <file mediaid="{5E786C94-D8A4-50C6-811F-1F97F4B4F1B0}" />
+    - ID: "b5f59c1c-4a8b-57aa-b1b0-8cdb13e182b2"
+      Hint: description
+      Value: |
+        <small>Note: Sitecore does not support inline editing of File fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.</small>
+        

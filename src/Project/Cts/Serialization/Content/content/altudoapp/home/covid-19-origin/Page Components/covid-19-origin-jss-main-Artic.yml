@@ -1,0 +1,47 @@
+﻿---
+ID: "b1fb794b-7854-5b56-88e2-9440ced2a788"
+Parent: "6458bf92-3e5d-5812-b73b-27e105141eda"
+Template: "a25a38e7-13d4-55f0-af37-c6dac5057df0"
+Path: "/sitecore/content/altudoapp/home/covid-19-origin/Page Components/covid-19-origin-jss-main-ArticleDetails-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ArticleDetails-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T094210Z
+    - ID: "3c5ed1de-7902-5997-be06-cc43a3690ccf"
+      Hint: detailedBlog
+      Value: |
+        <p> In 2007, scientists studying coronaviruses warned: “The presence of a large reservoir of SARS-CoV–like viruses in horseshoe bats… is a time bomb. The possibility of the re-emergence of SARS and other novel viruses… should not be ignored.”1
+        </p>
+        <p>
+          Few paid attention following the disappearance of SARS after the initial outbreak in 2002. Now, 18 years later, COVID-19 has emerged as the deadliest respiratory disease pandemic since 1918, when the “Spanish” influenza pandemic killed an estimated 50 million people.2 We need to understand what happened so that we can prevent it from happening again, and be better prepared to contain similar pandemics at their outsets.
+        </p>
+        <p>
+          Go to:  EMERGENCE OF THE COVID-19 PANDEMIC
+          The agent of COVID-19, SARS-CoV-2, was named after the genetically related SARS-CoV (more recently distinguished by some as SARS-CoV-1), which caused a deadly near-pandemic in 2002–2003.3 Before 2019, neither SARS-CoV-2 nor its genetic sequences had ever been identified in viruses of humans or animals.
+        </p>
+        <p>
+          Even so, scientific research conducted over the last two decades provides clues about how and why the COVID-19 pandemic appeared. We must understand these critically important scientific findings, described in the following text, so that we can better address significant existential risks we will continue to face for the foreseeable future.
+        </p>
+        
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "67829f00-d41f-57b6-b676-80919e686cad"
+      Hint: shortDescription
+      Value: "UK government believes Wuhan lab leak most likely COVID-19 origin: report"
+    - ID: "c4b828fc-6198-5fdd-b392-0cd52bf793bc"
+      Hint: heading
+      Value: "Covid 19 - Noval Coronavirus Origin - This is from my local en.yml"

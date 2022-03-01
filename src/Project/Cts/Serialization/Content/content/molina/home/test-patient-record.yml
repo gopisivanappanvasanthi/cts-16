@@ -1,0 +1,54 @@
+﻿---
+ID: "716c2a53-1661-4c36-8166-8e8fc4114757"
+Parent: "d527f1bb-9faf-5a1b-9b80-56b4b78a74c8"
+Template: "1eb118a3-7853-5bdb-9cd0-f4ab377b8621"
+Path: "/sitecore/content/molina/home/test-patient-record"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5F7E8A81-51E0-4CB9-B5DA-2199F96CFFA7}"
+          p:after="p[@uid='{F8DBAF04-6397-5AF6-8E12-FB036B8440A3}']"
+          s:ds="{72D77DFC-7C8C-424D-B301-6C3D621A5FB4}"
+          s:id="{E966E1E3-67BD-44F9-8936-8F3F7B36A5AC}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{3A73AD54-C799-4168-B113-C89FECFB6643}"
+          p:after="*[1=2]"
+          s:ds="{7C6FF9B8-BCD1-4230-A782-1FDDD968A40F}"
+          s:id="{23A9973F-3061-4133-BFAF-5C1462164327}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T050424Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "de1c6d54-e510-53c2-ab84-e9c6c90944a0"
+      Hint: pageTitle
+      Value: Test Prescription

@@ -1,0 +1,37 @@
+﻿---
+ID: "6b0be3b0-844d-4ea2-b03e-03e59f422855"
+Parent: "860d7fc1-2501-481f-9750-96e931152e22"
+Template: "860d7fc1-2501-481f-9750-96e931152e22"
+Path: /sitecore/templates/Project/molina/PatientInfo/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BDBA83F0-14B4-5150-9922-3A015EE0BEC3}">
+        <r
+          id="{E966E1E3-67BD-44F9-8936-8F3F7B36A5AC}"
+          ph="jss-main"
+          uid="{5389A4A2-C753-4105-9B82-F1AA899370C9}" />
+        <r
+          id="{1C45B897-A045-4BF1-9665-1F0E9BE425CE}"
+          ph="jss-main"
+          uid="{62C6886E-09FF-44B8-9ACA-E20C917BF6F0}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T025342Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

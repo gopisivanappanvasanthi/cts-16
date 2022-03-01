@@ -1,0 +1,42 @@
+﻿---
+ID: "316f82e1-f0f1-5a7f-9436-8ee308211aa7"
+Parent: "d527f1bb-9faf-5a1b-9b80-56b4b78a74c8"
+Template: "1eb118a3-7853-5bdb-9cd0-f4ab377b8621"
+Path: "/sitecore/content/molina/home/test-articledetail-sc"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{38D9AC86-251C-49B4-83C8-328005D21986}"
+          p:after="*[1=2]"
+          s:ds="{70716EF3-681F-53F0-86FA-C60D3B0B5274}"
+          s:id="{DBB981B3-C7F3-5E1A-8C83-FF34E9C4EF23}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T022339Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "de1c6d54-e510-53c2-ab84-e9c6c90944a0"
+      Hint: pageTitle
+      Value: Article Detail Sample

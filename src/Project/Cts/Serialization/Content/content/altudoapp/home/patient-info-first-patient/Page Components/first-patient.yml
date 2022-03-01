@@ -1,0 +1,70 @@
+﻿---
+ID: "d6cf72c4-bd60-4e2c-8e0e-496a08b82798"
+Parent: "5f051d70-b130-5433-a1c1-769d885e32d5"
+Template: "e77f9177-3ac7-535a-ad48-0d455b34cf0d"
+Path: "/sitecore/content/altudoapp/home/patient-info-first-patient/Page Components/first-patient"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20220228T113834:637816451146445445Z"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T113930Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220228T113930Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T113933Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "4f9d6b1d-81e4-5e4e-8448-9e9f8e9342a2"
+      Hint: patientDob
+      Value: 20220228T113900Z
+    - ID: "54aef70a-98e7-521f-bb7a-fb7ef230ff59"
+      Hint: patientName
+      Value: First Patient
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "67bc5d86-0f20-534a-b5c3-0948dda2fd49"
+      Hint: patientGender
+      Value: Male
+    - ID: "72d43d40-81e6-5f84-89f2-8ba9f76f94e9"
+      Hint: patientNo
+      Value: 2343
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220228T113933Z
+    - ID: "d9f4526f-e0e0-59be-926b-82fe8d333988"
+      Hint: patientPhoneNumber
+      Value: 234534343
+    - ID: "efa9ac9c-15e1-468b-a993-015fac006339"
+      Hint: records
+      Type: Multilist
+      Value: |
+        {A98A26D2-1699-4BE9-94C3-C4FE3FD89134}
+        {4E101DCF-A12E-46D3-BD74-052512BFAC9E}
+        {2339779B-AAF7-4E75-90F0-D853C5A682E7}

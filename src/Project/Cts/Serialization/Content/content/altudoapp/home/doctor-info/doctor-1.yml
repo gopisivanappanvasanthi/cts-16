@@ -1,0 +1,30 @@
+﻿---
+ID: "c03237d8-9d80-4f95-8406-959f16f0b940"
+Parent: "c62e5c92-4404-45ba-8a86-953de7fe46d4"
+Template: "221c5ffe-6b16-4c59-859e-a7c2a1cc8c10"
+Path: "/sitecore/content/altudoapp/home/doctor-info/doctor-1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1981bcfe-ad64-46dc-b09a-fc0002579195"
+      Hint: doctorQualification
+      Value: MBBS, MD
+    - ID: "221e8c79-dcda-4c76-be07-1780a0ffa04f"
+      Hint: doctorName
+      Value: Dr. Prakash
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T105637Z
+    - ID: "28a0c29c-7001-4c6e-948a-9405ce7d55e6"
+      Hint: doctorSpecialization
+      Value: Orthopeadics
+    - ID: "53d3ec90-de2d-473a-8075-23010b093f4d"
+      Hint: doctorExperience
+      Value: 5 years
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

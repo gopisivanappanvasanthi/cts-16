@@ -1,0 +1,64 @@
+﻿---
+ID: "9e1f7860-2e06-567b-b74f-953a9fc2f26e"
+Parent: "cffdd19f-9bbe-57fb-ba51-076f5e3b2c42"
+Template: "cffdd19f-9bbe-57fb-ba51-076f5e3b2c42"
+Path: /sitecore/templates/Project/cts/App Route/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{CFFDD19F-9BBE-57FB-BA51-076F5E3B2C42}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8B248CDD-D5EF-53A3-9DDB-8C30859F2FEA}">
+        <p
+          uid="{7AD2A571-BDAA-5354-8C56-54A8417EAB5C}"
+          key="jss-main"
+          md="{F4D7DA1C-312C-51B4-85B6-7574B9F773A4}" />
+        <p
+          uid="{60E76AA0-1095-5F1B-B812-A726D2F53637}"
+          key="jss-tabs"
+          md="{BEC85F94-9152-5653-B253-E8B347E37257}" />
+        <p
+          uid="{FF92BDE4-7420-51FD-88DB-BB1F971DFB9A}"
+          key="jss-graphql-layout"
+          md="{FEC91DBB-2BBC-5CDB-9890-E962EA9C8DCB}" />
+        <p
+          uid="{43687D1C-6237-567B-85CF-04E2C101EB12}"
+          key="jss-styleguide-layout"
+          md="{871F4580-1CCE-5D75-820C-4BB030D7DFFC}" />
+        <p
+          uid="{69CB3A1A-4895-5916-AC58-74B535EF6C34}"
+          key="jss-styleguide-section"
+          md="{CB24D2C6-2F16-5AF9-A414-CB4C138B34CE}" />
+        <p
+          uid="{6BEBDB9C-84CC-584F-8F30-CCE95FE16BAD}"
+          key="jss-header"
+          md="{D5025EE3-7601-59C4-80D9-7F42260F9698}" />
+        <p
+          uid="{09FB5858-5A02-5806-B4F4-2406E564352A}"
+          key="jss-reuse-example"
+          md="{F68FC20F-EB11-5526-91CE-9FF5C3D7C5AB}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T044636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

@@ -1,0 +1,46 @@
+﻿---
+ID: "fafe9bb5-3add-55a3-8bf2-e5b6c65054c8"
+Parent: "77a1331a-5320-5f4e-a65b-a7491fbfbe9b"
+Template: "2dc0e33d-701c-574c-afd5-f707d39a690c"
+Path: "/sitecore/content/altudoapp/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122134Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8324cb6a-4ba7-58d5-a501-e542b52ede9f"
+      Hint: heading
+      Value: Item Link
+    - ID: "b56c20b5-581d-50a7-a7d9-fb8ab15eb382"
+      Hint: sharedItemLink
+      Value: "{A257DB34-AE6D-5748-B990-46E040C72D27}"
+    - ID: "b5f59c1c-4a8b-57aa-b1b0-8cdb13e182b2"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Item Links are a way to reference another content item to use data from it.
+            Referenced items may be shared.
+            To reference multiple content items, use a <em>Content List</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Item Link fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "d910e7b6-fa16-5dae-a64c-5ac1beb1f149"
+      Hint: localItemLink
+      Value: "{004BE574-1F2C-58B1-8572-6A4F896A8985}"

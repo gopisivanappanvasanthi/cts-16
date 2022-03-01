@@ -1,0 +1,40 @@
+﻿---
+ID: "b26df847-01c9-52a2-a527-b8f7b9523f81"
+Parent: "bc7f2cb6-5dbf-5b46-9269-1bfce536922c"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/altudoapp/jss-main"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "jss-main"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 1
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {7C193C00-6C3A-50CC-8DDE-F638A4586EC6}
+    {2A1FA7F8-BD2A-5D63-BAC9-E3E818193641}
+    {8A067C0D-2AE7-529E-A8F4-549528DE8095}
+    {83955A1C-D683-5701-A3F7-A3A50BDD2C48}
+    {AE7E0CEB-FE4C-5C5C-8F39-7A69B02642B4}
+    {30E2D159-4DBB-5CF5-AB05-F07166D50783}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Main
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122129Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

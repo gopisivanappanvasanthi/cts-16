@@ -1,0 +1,22 @@
+﻿---
+ID: "c4a15779-6457-5702-b33b-271d187a716a"
+Parent: "d1d35499-c647-5674-bd73-2dde97ce2ff8"
+Template: "d1d35499-c647-5674-bd73-2dde97ce2ff8"
+Path: /sitecore/templates/Project/molina/ArticleDetail/__Standard Values
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T022029Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

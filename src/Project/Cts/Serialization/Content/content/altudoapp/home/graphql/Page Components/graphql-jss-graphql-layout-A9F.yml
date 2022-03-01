@@ -1,0 +1,32 @@
+﻿---
+ID: "ff614816-b320-5606-ba26-a6dbb0fb79cf"
+Parent: "ab708211-40d4-52e7-b3e5-9be448c95a5c"
+Template: "e143f7e1-5593-526c-986c-c8067e912dd8"
+Path: "/sitecore/content/altudoapp/home/graphql/Page Components/graphql-jss-graphql-layout-A9FBC7CC-F00B-58A2-873B-4C70C726476C-0-GraphQL-IntegratedDemo-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "GraphQL-IntegratedDemo-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a082a3d-fb94-53bb-99dd-92300a8cb518"
+      Hint: sample2
+      Value: |
+        <link text="GraphQL lets you get structured field data too" target="_blank" url="https://www.sitecore.com" linktype="external" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220225T122132Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "4f031e70-8995-5a2d-bc20-f48de24d2b49"
+      Hint: sample1
+      Value: "Hello integrated GraphQL world!"
