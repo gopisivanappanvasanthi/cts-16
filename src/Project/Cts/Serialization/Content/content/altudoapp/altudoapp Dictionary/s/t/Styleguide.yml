@@ -1,13 +1,16 @@
 ﻿---
 ID: "cfca93f5-1e68-5efa-bb22-4ce46d565551"
-Parent: "ac07b904-fc92-5900-8437-d457457af68a"
+Parent: "b264566d-8a81-4e4b-8545-fd4e1e45b1ff"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: /sitecore/content/altudoapp/altudoapp Dictionary/Styleguide
+Path: /sitecore/content/altudoapp/altudoapp Dictionary/s/t/Styleguide
 DB: master
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key
   Value: Styleguide
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{AC07B904-FC92-5900-8437-D457457AF68A}"
 Languages:
 - Language: en
   Fields:

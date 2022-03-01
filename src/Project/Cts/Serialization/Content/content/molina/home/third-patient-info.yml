@@ -1,0 +1,21 @@
+﻿---
+ID: "312dd9f0-7922-4f1b-808f-f57e91a775f4"
+Parent: "d527f1bb-9faf-5a1b-9b80-56b4b78a74c8"
+Template: "860d7fc1-2501-481f-9750-96e931152e22"
+Path: "/sitecore/content/molina/home/third-patient-info"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{792DD9B2-031E-4A0C-BF7D-1182D398780B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220301T055635Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E027A286-06EF-4940-AC0F-3A1111701C07}"

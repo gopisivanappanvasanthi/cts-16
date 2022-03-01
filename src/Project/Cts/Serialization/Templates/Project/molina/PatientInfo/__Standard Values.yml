@@ -5,6 +5,9 @@ Template: "860d7fc1-2501-481f-9750-96e931152e22"
 Path: /sitecore/templates/Project/molina/PatientInfo/__Standard Values
 DB: master
 SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{792DD9B2-031E-4A0C-BF7D-1182D398780B}"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout

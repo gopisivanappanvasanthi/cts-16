@@ -1,19 +1,22 @@
 ﻿---
-ID: "c5645346-2861-5f67-9589-07b5bc2ad1b5"
-Parent: "ac07b904-fc92-5900-8437-d457457af68a"
+ID: "5a302019-bcad-5a97-9d92-582a4fa2444a"
+Parent: "30aa8510-8313-4f40-a813-3d55649d5ee0"
 Template: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
-Path: "/sitecore/content/altudoapp/altudoapp Dictionary/styleguide-sample"
+Path: /sitecore/content/altudoapp/altudoapp Dictionary/g/r/GraphQL
 DB: master
 SharedFields:
 - ID: "580c75a8-c01a-4580-83cb-987776ceb3af"
   Hint: Key
-  Value: "styleguide-sample"
+  Value: GraphQL
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{AC07B904-FC92-5900-8437-D457457AF68A}"
 Languages:
 - Language: en
   Fields:
   - ID: "2ba3454a-9a9c-4cdf-a9f8-107fd484eb6e"
     Hint: Phrase
-    Value: This is a dictionary entry in English as a demonstration
+    Value: GraphQL
   Versions:
   - Version: 1
     Fields:

@@ -263,10 +263,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\Cts\Cts.Feature.Common.PageNotFoundResolver.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
+    <Compile Include="Pipelines\HandleServerError.cs" />
+    <Compile Include="Pipelines\PageNotFoundResolver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resolvers\PatientRecordResolver.cs" />
   </ItemGroup>

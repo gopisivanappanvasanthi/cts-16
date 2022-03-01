@@ -8,6 +8,15 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <event
+        id="{692E8F8E-E913-4824-B7B2-C628D4782B1B}"
+        name="covid-19-pageview" />
+    </tracking>
 Languages:
 - Language: en
   Versions:
