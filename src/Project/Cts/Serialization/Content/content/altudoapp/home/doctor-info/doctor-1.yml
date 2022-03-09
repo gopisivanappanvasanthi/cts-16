@@ -9,6 +9,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "05de4e39-0c42-4f0e-859b-c23bc161194d"
+      Hint: doctorUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{C03237D8-9D80-4F95-8406-959F16F0B940}" />
     - ID: "1981bcfe-ad64-46dc-b09a-fc0002579195"
       Hint: doctorQualification
       Value: MBBS, MD

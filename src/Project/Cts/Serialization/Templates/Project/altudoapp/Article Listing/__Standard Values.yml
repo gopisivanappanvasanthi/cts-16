@@ -1,0 +1,43 @@
+﻿---
+ID: "a49eb1ff-1b75-4550-9c56-96846b1266db"
+Parent: "41eba4c7-9974-458d-89bb-5e7349ab49e1"
+Template: "41eba4c7-9974-458d-89bb-5e7349ab49e1"
+Path: /sitecore/templates/Project/altudoapp/Article Listing/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {82EB1EFB-AFCC-45A6-9D9A-0C68F213E359}
+    {41EBA4C7-9974-458D-89BB-5E7349AB49E1}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{D912220A-D87A-57F0-89A6-1D0CB36D59E3}">
+        <r
+          id="{0849B436-1CE9-4CB5-AB85-D9103182CA27}"
+          ph="jss-main"
+          uid="{18DC84EC-777E-453D-AFBC-F97DD16CF9AE}" />
+        <r
+          id="{AFCBE2F5-0A5D-4B1E-9CA0-948667CB10C9}"
+          ph="jss-main"
+          uid="{28D37EB1-344D-4320-A520-31EA4892EF4C}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T033851Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

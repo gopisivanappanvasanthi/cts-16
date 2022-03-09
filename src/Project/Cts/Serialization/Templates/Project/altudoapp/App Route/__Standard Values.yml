@@ -8,7 +8,9 @@ SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
   Type: TreelistEx
-  Value: "{463067A4-5803-51C8-9C51-9E66B1E68F82}"
+  Value: |
+    {463067A4-5803-51C8-9C51-9E66B1E68F82}
+    {41EBA4C7-9974-458D-89BB-5E7349AB49E1}
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"

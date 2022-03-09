@@ -1,0 +1,59 @@
+﻿---
+ID: "82eb1efb-afcc-45a6-9d9a-0c68f213e359"
+Parent: "8f8ec853-7a95-513d-a0c3-6ff7c2251b89"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/altudoapp/Article Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/contract.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {74AEFAEF-015E-45D3-9596-94329F71D3EC}
+    {36BCD0C5-63C9-49D5-B768-C524C62BB8CA}
+    {C1DF297A-2E05-42DE-B40D-6A4244EB0F21}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{D912220A-D87A-57F0-89A6-1D0CB36D59E3}">
+        <r
+          id="{12814699-9CD4-4CB2-BD39-9DAE67B357C4}"
+          ph="jss-main"
+          uid="{2AD49202-A8BF-4BEC-AFFD-AAFC0A7B26FD}" />
+        <r
+          id="{614A5A37-00B9-4D6D-A3BF-E541B19ABC4F}"
+          ph="jss-main"
+          uid="{5E5A0B10-7BC2-442D-A5F5-443A1400E105}" />
+        <r
+          id="{38CFC9DF-030F-4807-828B-1D356BD06B80}"
+          ph="jss-main"
+          uid="{5E6078AA-5760-4001-BFF2-70DF0E87236D}" />
+        <r
+          id="{06BF6ECC-46D5-446B-BBEA-138C3EA4287D}"
+          ph="jss-main"
+          uid="{76EEAD85-7788-4834-8C01-5696510E1127}" />
+      </d>
+    </r>
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{9D2D57A7-460C-474C-9AF3-C384BB12960C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T033637Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

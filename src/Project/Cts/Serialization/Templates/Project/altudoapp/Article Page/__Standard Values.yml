@@ -1,0 +1,49 @@
+﻿---
+ID: "9d2d57a7-460c-474c-9af3-c384bb12960c"
+Parent: "82eb1efb-afcc-45a6-9d9a-0c68f213e359"
+Template: "82eb1efb-afcc-45a6-9d9a-0c68f213e359"
+Path: /sitecore/templates/Project/altudoapp/Article Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{D912220A-D87A-57F0-89A6-1D0CB36D59E3}">
+        <r
+          id="{12814699-9CD4-4CB2-BD39-9DAE67B357C4}"
+          ph="jss-main"
+          uid="{8218440E-7FD5-4702-B671-BE5933CE88EE}" />
+        <r
+          id="{614A5A37-00B9-4D6D-A3BF-E541B19ABC4F}"
+          ph="jss-main"
+          uid="{D2C8D663-1CB2-4085-B83C-03399372F67F}" />
+        <r
+          id="{38CFC9DF-030F-4807-828B-1D356BD06B80}"
+          ph="jss-main"
+          uid="{FE9A41F3-E5A6-4329-A39B-532BC79E3B36}" />
+        <r
+          id="{06BF6ECC-46D5-446B-BBEA-138C3EA4287D}"
+          ph="jss-main"
+          uid="{B55A23BE-6172-4FD0-9DA0-3FC7AA1F09BE}" />
+        <r
+          id="{C8A192D3-69A9-4807-B1DE-16D1113751D6}"
+          ph="jss-main"
+          uid="{9E1DEA6C-26FD-41FF-A42E-BA5A04F79526}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T045226Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

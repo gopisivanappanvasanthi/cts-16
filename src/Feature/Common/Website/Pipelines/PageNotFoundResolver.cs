@@ -12,7 +12,7 @@ namespace Cts.Feature.Common.Pipelines
         public override void Process(HttpRequestArgs args)
         {
             //args.Url.FilePath
-            if (args.Url.FilePath.Contains("/sitecore") || File.Exists(args.Url.FilePath))
+            if (args.Url.FilePath.Contains("/sitecore") || File.Exists(args.Url.FilePath) || args.Url.FilePath.Contains("altudoapi"))
                 return;
 
             var contextItem = Sitecore.Context.Item;

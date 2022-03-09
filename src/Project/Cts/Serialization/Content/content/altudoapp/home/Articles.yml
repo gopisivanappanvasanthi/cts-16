@@ -1,0 +1,14 @@
+﻿---
+ID: "a297b4fa-8a3e-4bc7-9a01-4b4aab28d482"
+Parent: "192da1f2-2e8a-5695-abfa-26a4fc348cfb"
+Template: "41eba4c7-9974-458d-89bb-5e7349ab49e1"
+Path: /sitecore/content/altudoapp/home/Articles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T033950Z

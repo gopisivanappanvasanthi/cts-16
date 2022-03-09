@@ -264,6 +264,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Cts\Cts.Feature.Common.PageNotFoundResolver.config" />
+    <Content Include="App_Config\Include\Cts\FieldSerializer.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -271,8 +272,11 @@
     <Compile Include="Pipelines\HandleServerError.cs" />
     <Compile Include="Pipelines\PageNotFoundResolver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resolvers\PatientInfoResolver.cs" />
     <Compile Include="Resolvers\PatientMedicalRecordResolver.cs" />
     <Compile Include="Resolvers\PatientRecordResolver.cs" />
+    <Compile Include="Test\CustomFieldSerializer.cs" />
+    <Compile Include="Test\GetCustomFieldSerializer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
