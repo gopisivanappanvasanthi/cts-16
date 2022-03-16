@@ -103,10 +103,16 @@ Languages:
       Hint: fullBleedImage
       Value: |
         <image mediaid="{00298A40-671A-4A24-82BF-0DAA6E60D436}" />
+    - ID: "9342a193-5657-4158-87fa-52aa10217253"
+      Hint: specialityName
+      Value: "{1BBBA5DC-5004-4E55-95B4-A57E59AC0236}"
     - ID: "b949af08-3e2b-45a6-b173-7530ca1fdc32"
       Hint: featuredImage
       Value: |
         <image mediaid="{129DA75C-662B-4461-8835-FC9281F55224}" />
+    - ID: "c9ed90cf-22c5-4894-8e21-cc158895d9a0"
+      Hint: specialityCode
+      Value: test
     - ID: "f046dd94-9d39-4501-8528-33fe7bc69fbd"
       Hint: articleTitle
-      Value: "Diabetes care: 10 ways to avoid complications"
+      Value: "Diabetes care: 10 ways to avoid complications "

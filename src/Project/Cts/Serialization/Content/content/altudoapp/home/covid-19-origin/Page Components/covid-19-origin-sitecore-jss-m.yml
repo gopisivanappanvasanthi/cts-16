@@ -1,0 +1,14 @@
+﻿---
+ID: "95160cab-e0fb-5060-8800-ca9d1d33d0f3"
+Parent: "6458bf92-3e5d-5812-b73b-27e105141eda"
+Template: "a25a38e7-13d4-55f0-af37-c6dac5057df0"
+Path: "/sitecore/content/altudoapp/home/covid-19-origin/Page Components/covid-19-origin-sitecore-jss-main-ArticleDetails-1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20220228T093957:637816379975965704Z"

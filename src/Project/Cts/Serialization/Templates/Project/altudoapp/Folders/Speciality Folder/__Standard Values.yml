@@ -1,0 +1,23 @@
+﻿---
+ID: "9fafa2ed-9f3b-4238-81ad-3d785cb8b416"
+Parent: "d5eb422b-76bf-4799-9494-d95096d1a082"
+Template: "d5eb422b-76bf-4799-9494-d95096d1a082"
+Path: /sitecore/templates/Project/altudoapp/Folders/Speciality Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{C6FFD643-1F8A-4BF2-B935-DBA8920E2BE7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220314T061838Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

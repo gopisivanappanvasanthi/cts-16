@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Sitecore.ContentSearch;
+using Sitecore.ContentSearch.SearchTypes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -13,7 +15,47 @@ namespace Cts.Feature.Search.Controllers
         [HttpPost]
         public IHttpActionResult HandleSearch(SearchParam param)
         {
-            return Json("Handling Search for the keyword: " + param.searchKeyword);
+            #region Sample Data
+            SearchResult searchResult1 = new SearchResult
+            {
+                SearchTitle = "Sample Title - 1",
+                SearchDescription = "Sample Search Description -1",
+                SearchTileUrl = "http://altudoapp.dev.local"
+            };
+            SearchResult searchResult2 = new SearchResult
+            {
+                SearchTitle = "Sample Title - 2",
+                SearchDescription = "Sample Search Description -2",
+                SearchTileUrl = "http://altudoapp.dev.local"
+            };
+
+            List<SearchResult> searchResults = new List<SearchResult>();
+            searchResults.Add(searchResult1);
+            searchResults.Add(searchResult2);
+
+            #endregion
+
+            var contextDB = Sitecore.Context.Database;
+
+            //get index instance
+            ISearchIndex searchIndex = ContentSearchManager.GetIndex($"sitecore_{contextDB.Name}_index");
+            //create search context
+            using (IProviderSearchContext searchContext = searchIndex.CreateSearchContext())
+            {
+                var searchResultFromSolr = searchContext.GetQueryable<SearchResultItem>()
+                                                    .Where(x => x.TemplateName == "Article Page")
+                                                    .Where(x => x.Content.Contains(param.searchKeyword))
+                                                    .Select(x => new SearchResult
+                                                    {
+                                                        SearchTitle = Convert.ToString(x.Fields["articletitle_t"]),
+                                                        SearchDescription = Convert.ToString(x.Fields["articlebrief_t"]),
+                                                    }).ToList();
+                searchResults = searchResultFromSolr;
+            }
+            //do query
+
+
+            return Json(searchResults);
         }
     }
 

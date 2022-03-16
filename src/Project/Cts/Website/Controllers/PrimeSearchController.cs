@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Sitecore.ContentSearch;
+using Sitecore.ContentSearch.SearchTypes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,14 +14,18 @@ namespace Cts.Project.Cts.Controllers
         [HttpPost]
         public IHttpActionResult GetSearchResult(SearchTerm searchTerm)
         {
-            ResultItem result = new ResultItem
-            {
-                ResultTitle = "Test Title",
-                ResultDescription = "Test Description",
-                ResultUrl = "https://google.com"
-            };
+
+            ISearchIndex selectedIndex = ContentSearchManager.GetIndex("sitecore_master_index");
             List<ResultItem> results = new List<ResultItem>();
-            results.Add(result);
+            using (IProviderSearchContext context = selectedIndex.CreateSearchContext())
+            {
+                results = context.GetQueryable<SearchResultItem>()
+                                    .Where(x => x.Content.Contains(searchTerm.Term))
+                                    .Select(x => new ResultItem
+                                    {
+                                        ResultTitle = x.Name,
+                                    }).ToList();
+            }
 
             return Json(results);
         }

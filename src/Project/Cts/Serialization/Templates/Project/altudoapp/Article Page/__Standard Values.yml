@@ -47,3 +47,6 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "9342a193-5657-4158-87fa-52aa10217253"
+      Hint: specialityName
+      Value: 

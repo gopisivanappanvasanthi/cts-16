@@ -1,5 +1,6 @@
 ﻿using Cts.Project.Cts.Models;
 using Newtonsoft.Json;
+using Sitecore.Data;
 using Sitecore.Data.Fields;
 using Sitecore.Data.Items;
 using Sitecore.Links;
@@ -20,23 +21,23 @@ namespace Cts.Project.Cts.Controllers
         [Route("altudoapi/GetArticles")]
         public IHttpActionResult GetArticles()
         {
-            var contextItem = Sitecore.Configuration.Factory.GetDatabase("master").GetItem(new Sitecore.Data.ID("{A297B4FA-8A3E-4BC7-9A01-4B4AAB28D482}"));
+            var contextItem = Sitecore.Configuration.Factory.GetDatabase(Constants.masterDB).GetItem(new Sitecore.Data.ID("{A297B4FA-8A3E-4BC7-9A01-4B4AAB28D482}"));
 
             var listofArticles = contextItem.GetChildren()
                                             .Select(x => new JsonArticle
                                             {
                                                 Name = x.Name,
-                                                Title = x.Fields["articleTitle"].Value,
-                                                Brief = x.Fields["articleBrief"].Value,
-                                                ImageUrl = getImageUrl(x, "featuredImage"),
+                                                Title = x.Fields[Templates.Articles.Fields.ArticleTitle].Value,
+                                                Brief = x.Fields[Templates.Articles.Fields.ArticleBrief].Value,
+                                                ImageUrl = getImageUrl(x, Templates.Articles.Fields.FeaturedImage),
                                             })
                                             .ToList();
             return Json(listofArticles);
         }
 
-        private string getImageUrl(Item item, string fieldName)
+        private string getImageUrl(Item item, ID fieldid)
         {
-            ImageField image = item.Fields[fieldName];
+            ImageField image = item.Fields[fieldid];
             return MediaManager.GetMediaUrl(image.MediaItem);
         }
         [Route("altudoapi/GetFullBleedImageFromArticles")]

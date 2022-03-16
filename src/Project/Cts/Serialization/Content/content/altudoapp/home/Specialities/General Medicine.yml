@@ -1,0 +1,24 @@
+﻿---
+ID: "7eafb5c5-495a-4df4-9d5a-56d7c740b750"
+Parent: "3fb55eaa-85cf-40d9-8145-fd22ef652410"
+Template: "c6ffd643-1f8a-4bf2-b935-dba8920e2be7"
+Path: /sitecore/content/altudoapp/home/Specialities/General Medicine
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220314T062103Z
+    - ID: "532e05c5-73ff-4ecf-8670-c19b1c2f4d33"
+      Hint: specialityName
+      Value: General Medicine
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9e538835-3bba-46bc-80e4-d1c67abc85fa"
+      Hint: specialityCode
+      Value: GM
