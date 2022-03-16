@@ -1,5 +1,5 @@
 ﻿---
-ID: "6b153944-7725-4c8e-93e2-6345cbf6199a"
+ID: "e738deb7-0072-4282-b638-0e47aa095c24"
 Parent: "a297b4fa-8a3e-4bc7-9a01-4b4aab28d482"
 Template: "82eb1efb-afcc-45a6-9d9a-0c68f213e359"
 Path: "/sitecore/content/altudoapp/home/Articles/diabetics-and-solutions"
@@ -9,110 +9,10 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "0d619ad0-e2ca-487f-9220-625041a6ecab"
-      Hint: articleBrief
-      Value: Diabetes care is a lifelong responsibility. Consider 10 strategies to prevent diabetes complications.
-    - ID: "172d1a53-f8b2-45aa-a8ab-506a4afd158e"
-      Hint: authors
-      Type: Treelist
-      Value: "{C03237D8-9D80-4F95-8406-959F16F0B940}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20220303T034405Z
+      Value: 20220303T034008Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
-    - ID: "730f14e8-e9d3-4f41-ab78-f0f4bc585001"
-      Hint: detailedArticle
-      Value: |
-        <p style="color: #111111; margin-right: 0px; margin-bottom: 12px; margin-left: 0px;">Here are 10 ways to take an active role in your diabetes care and enjoy a healthier future.</p>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">1. Make a commitment to managing your diabetes</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Members of your diabetes care team &mdash; primary care provider, diabetes care and education specialist, and dietitian, for example &mdash; can help you learn the basics of diabetes care and offer support along the way. But it's up to you to manage your condition.</p>
-        <p style="color: #111111; margin: 0px 0px 12px;">Learn all you can about diabetes. Make healthy eating and physical activity part of your daily routine. Maintain a healthy weight.</p>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Monitor your blood sugar, and follow your health care provider's instructions for managing your blood sugar level. Take your medications as directed by your health care provider. Ask your diabetes treatment team for help when you need it.</p>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">2. Don't smoke</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Avoid smoking or quit smoking if you smoke. Smoking increases your risk of type 2 diabetes and the risk of various diabetes complications, including:</p>
-        <ul style="color: #111111; margin: 0px 0px 12px 24px; padding: 0px;">
-            <li style="margin-bottom: 0px;">Reduced blood flow in the legs and feet, which can lead to infections, nonhealing ulcers and possible amputation</li>
-            <li style="margin-bottom: 0px;">Worse blood sugar control</li>
-            <li style="margin-bottom: 0px;">Heart disease</li>
-            <li style="margin-bottom: 0px;">Stroke</li>
-            <li style="margin-bottom: 0px;">Eye disease, which can lead to blindness</li>
-            <li style="margin-bottom: 0px;">Nerve damage</li>
-            <li style="margin-bottom: 0px;">Kidney disease</li>
-            <li style="margin-bottom: 0px;">Premature death</li>
-        </ul>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Talk to your health care provider about ways to help you stop smoking or using other types of tobacco.</p>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">3. Keep your blood pressure and cholesterol under control</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Like diabetes, high blood pressure can damage your blood vessels. High cholesterol is a concern, too, since the resulting damage is often worse and more rapid when you have diabetes. When these conditions team up, they can lead to a heart attack, stroke or other life-threatening conditions.</p>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Eating a healthy, reduced-fat and low salt diet, avoiding excess alcohol, and exercising regularly can go a long way toward controlling high blood pressure and cholesterol. Your health care provider may also recommend taking prescription medication, if necessary.</p>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">4. Schedule regular physicals and eye exams</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Schedule two to four diabetes checkups a year, in addition to your yearly physical and routine eye exams.</p>
-        <p style="color: #111111; margin: 0px 0px 12px;">During the physical, your health care provider will ask about your nutrition and activity level and look for any diabetes-related complications &mdash; including signs of kidney damage, nerve damage and heart disease &mdash; as well as screen for other medical problems. He or she will also examine your feet for any issues that may need treatment.</p>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Your eye care specialist will check for signs of retinal damage, cataracts and glaucoma.</p>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">5. Keep your vaccines up to date</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Diabetes increases your risk of getting certain illnesses. Routine vaccines can help prevent them. Ask your health care provider about:</p>
-        <ul style="color: #111111; margin: 0px 0px 12px 24px; padding: 0px;">
-            <li style="margin-bottom: 0px;"><strong>Flu vaccine.</strong>&nbsp;A yearly flu vaccine can help you stay healthy during flu season as well as prevent serious complications from the flu.</li>
-            <li style="margin-bottom: 0px;"><strong>Pneumonia vaccine.</strong>&nbsp;Sometimes the pneumonia vaccine requires only one shot. If you have diabetes complications or you're age 65 or older, you may need a booster shot.</li>
-            <li style="margin-bottom: 0px;"><strong>Hepatitis B vaccine.</strong>&nbsp;The hepatitis B vaccine is recommended for adults with diabetes who haven't previously received the vaccine and are younger than 60. If you're age 60 or older and have never received the hepatitis B vaccine, talk to your health care provider about whether it's right for you.</li>
-            <li style="margin-bottom: 0px;"><strong>Other vaccines.</strong>&nbsp;Stay up to date with your tetanus shot (usually given every 10 years). Your doctor may recommend other vaccines as well.</li>
-        </ul>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">6. Take care of your teeth</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Diabetes may leave you prone to gum infections. Brush your teeth at least twice a day with a fluoride toothpaste, floss your teeth once a day and schedule dental exams at least twice a year. Call your dentist if your gums bleed or look red or swollen.</p>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">7. Pay attention to your feet</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">High blood sugar can reduce blood flow and damage the nerves in your feet. Left untreated, cuts and blisters can lead to serious infections. Diabetes can lead to pain, tingling or loss of sensation in your feet.</p>
-        <p style="color: #111111; margin: 0px 0px 12px;">To prevent foot problems:</p>
-        <ul style="color: #111111; margin: 0px 0px 12px 24px; padding: 0px;">
-            <li style="margin-bottom: 0px;">Wash your feet daily in lukewarm water. Avoid soaking your feet, as this can lead to dry skin.</li>
-            <li style="margin-bottom: 0px;">Dry your feet gently, especially between the toes.</li>
-            <li style="margin-bottom: 0px;">Moisturize your feet and ankles with lotion or petroleum jelly. Do not put oils or creams between your toes &mdash; the extra moisture can lead to infection.</li>
-            <li style="margin-bottom: 0px;">Check your feet daily for calluses, blisters, sores, redness or swelling.</li>
-            <li style="margin-bottom: 0px;">Consult your doctor if you have a sore or other foot problem that doesn't start to heal within a few days. If you have a foot ulcer &mdash; an open sore &mdash; see your doctor right away.</li>
-            <li style="margin-bottom: 0px;">Don't go barefoot, indoors or outdoors.</li>
-        </ul>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">8. Consider a daily aspirin</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">If you have diabetes and other cardiovascular risk factors, such as smoking or high blood pressure, your doctor may recommend taking a low dose of aspirin every day to help reduce your risk of heart attack and stroke. If you don't have additional cardiovascular risk factors, the risk of bleeding from aspirin use may outweigh any of its benefits. Ask your doctor whether daily aspirin therapy is appropriate for you, including which strength of aspirin would be best.</p>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">9. If you drink alcohol, do so responsibly</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">Alcohol can cause high or low blood sugar, depending on how much you drink and whether you eat at the same time. If you choose to drink, do so only in moderation, which means no more than one drink a day for women and two drinks a day for men.</p>
-        <p style="color: #111111; margin: 0px 0px 12px;">Always drink with a meal or snack, and remember to include the calories from any alcohol you drink in your daily calorie count. Also, be aware that alcohol can lead to low blood sugar later, especially for people who use insulin.</p>
-        <div id="ad-mobile-top-container" style="color: #111111;">&nbsp;</div>
-        <h3 style="color: #54585a; margin: 0px 0px 12px; padding: 0px; line-height: 25px;">10. Take stress seriously</h3>
-        <div class="auto" style="color: #111111; width: 222px; margin-left: 24px;">&nbsp;</div>
-        <p style="color: #111111; margin: 0px 0px 12px;">If you're stressed, it's easy to neglect your usual diabetes care routine. To manage your stress, set limits. Prioritize your tasks. Learn relaxation techniques.</p>
-        <p style="color: #111111; margin: 0px 0px 12px;">Get plenty of sleep. And above all, stay positive. Diabetes care is within your control. If you're willing to do your part, diabetes won't stand in the way of an active, healthy life.</p>
-    - ID: "8b45bd71-14cf-4dfc-afe1-e6c5df4dbe94"
-      Hint: fullBleedImage
-      Value: |
-        <image mediaid="{00298A40-671A-4A24-82BF-0DAA6E60D436}" />
-    - ID: "9342a193-5657-4158-87fa-52aa10217253"
-      Hint: specialityName
-      Value: "{1BBBA5DC-5004-4E55-95B4-A57E59AC0236}"
-    - ID: "b949af08-3e2b-45a6-b173-7530ca1fdc32"
-      Hint: featuredImage
-      Value: |
-        <image mediaid="{129DA75C-662B-4461-8835-FC9281F55224}" />
-    - ID: "c9ed90cf-22c5-4894-8e21-cc158895d9a0"
-      Hint: specialityCode
-      Value: test
-    - ID: "f046dd94-9d39-4501-8528-33fe7bc69fbd"
-      Hint: articleTitle
-      Value: "Diabetes care: 10 ways to avoid complications "

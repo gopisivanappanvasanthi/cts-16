@@ -38,6 +38,8 @@ namespace Cts.Project.Cts.Controllers
         private string getImageUrl(Item item, ID fieldid)
         {
             ImageField image = item.Fields[fieldid];
+            if (image.MediaItem is null)
+                return "";
             return MediaManager.GetMediaUrl(image.MediaItem);
         }
         [Route("altudoapi/GetFullBleedImageFromArticles")]
@@ -48,7 +50,7 @@ namespace Cts.Project.Cts.Controllers
                                                 .Select(x => new CarouselImages
                                                 {
                                                     CarouselTitle = x.Fields["articleTitle"].Value,
-                                                    CarouselImageUrl = getImageUrl(x, "fullBleedImage"),
+                                                    CarouselImageUrl = getImageUrl(x, Templates.Articles.Fields.FullBleedImage),
                                                     CarouselUrl = LinkManager.GetItemUrl(x)
                                                 }).ToList();
 

@@ -17,6 +17,7 @@ namespace Cts.Project.Cts
                 public static readonly ID ArticleTitle = new ID("{F046DD94-9D39-4501-8528-33FE7BC69FBD}");
                 public static readonly ID ArticleBrief = new ID("{0D619AD0-E2CA-487F-9220-625041A6ECAB}");
                 public static readonly ID FeaturedImage = new ID("{B949AF08-3E2B-45A6-B173-7530CA1FDC32}");
+                public static readonly ID FullBleedImage = new ID("{8B45BD71-14CF-4DFC-AFE1-E6C5DF4DBE94}");
             }
         }
     }

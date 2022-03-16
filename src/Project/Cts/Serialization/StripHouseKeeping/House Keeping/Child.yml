@@ -1,0 +1,22 @@
+﻿---
+ID: "5d883333-5f37-4b8d-bcc1-b9d2ec8a1396"
+Parent: "1e1948eb-c16e-4b9a-b3f6-a9787e9d2175"
+Template: "ef295cd8-19d4-4e02-9438-94c926ef5284"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Strips/House Keeping/Child
+DB: core
+SharedFields:
+- ID: "c9ce97fb-3e8e-4384-9430-7dba75b275dd"
+  Hint: Reference
+  Value: "{321E155D-ADF7-43C2-A3B0-592948C1C58C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220316T031732Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

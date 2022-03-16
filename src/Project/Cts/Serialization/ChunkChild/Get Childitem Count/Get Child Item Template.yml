@@ -1,0 +1,31 @@
+﻿---
+ID: "7f58c4e1-9cf4-4f09-9806-eb49dbbea054"
+Parent: "321e155d-adf7-43c2-a3b0-592948c1c58c"
+Template: "1db34c92-03b0-4475-9a39-da14e4d9d8fc"
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Get Childitem Count/Get Child Item Template
+DB: core
+SharedFields:
+- ID: "d47ed548-84d5-4622-9886-5cc164727507"
+  Hint: Icon
+  Value: Applications/32x32/font.png
+- ID: "dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b"
+  Hint: Click
+  Value: "alduto:getchilditemtemplate"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220316T032538Z
+    - ID: "4df6da21-e745-444c-956e-1d4a96ab8821"
+      Hint: Header
+      Value: Child Item Template
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a1a31a93-c4a0-4396-b629-67c33001a3cf"
+      Hint: Tooltip
+      Value: Click here to know the child items template
