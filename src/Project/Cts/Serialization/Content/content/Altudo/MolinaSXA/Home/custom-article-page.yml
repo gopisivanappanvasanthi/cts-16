@@ -1,0 +1,24 @@
+﻿---
+ID: "7bdceff3-b2a1-4f95-a7a2-595840e22cbc"
+Parent: "67d76d6c-334d-40c3-afcc-c8a016b24551"
+Template: "12784a17-3ce6-4e25-ade4-a319feb20888"
+Path: "/sitecore/content/Altudo/MolinaSXA/Home/custom-article-page"
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DCBC0368-6B78-42CD-8AD2-1015BBF58D1B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T052324Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "custom-article-page"
+    - ID: "e0a6f66a-95cd-40a3-a623-ec7d78609e1a"
+      Hint: Title
+      Value: "custom-article-page"

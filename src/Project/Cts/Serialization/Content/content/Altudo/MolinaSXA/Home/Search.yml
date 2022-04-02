@@ -1,0 +1,24 @@
+﻿---
+ID: "1642db43-673a-4173-908c-aa6a42cfa7f6"
+Parent: "67d76d6c-334d-40c3-afcc-c8a016b24551"
+Template: "b07aab9c-5b2e-47fc-9ed1-a4bd34d20f55"
+Path: /sitecore/content/Altudo/MolinaSXA/Home/Search
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{C44FEFE1-AD84-4AE9-B6E8-BCD0D4A79F9B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T035131Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Search
+    - ID: "e0a6f66a-95cd-40a3-a623-ec7d78609e1a"
+      Hint: Title
+      Value: Search

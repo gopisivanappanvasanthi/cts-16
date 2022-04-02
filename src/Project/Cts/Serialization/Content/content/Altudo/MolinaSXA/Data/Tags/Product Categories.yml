@@ -1,0 +1,18 @@
+﻿---
+ID: "272f8e71-711c-4b7a-a6ad-aa8ba0800337"
+Parent: "8e7c7076-e9c3-4918-8b4e-3021919da85b"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Tags/Product Categories
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T053940Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "1848f175-561c-4b71-b49a-17a29f7bbd57"
+Parent: "cad7e411-dbe1-47d2-828e-3557108e11f2"
+Template: "18d0bd79-7da4-4c2a-a924-b93a2b99d669"
+Path: /sitecore/content/Altudo/MolinaSXA/Settings/Shared Sites Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033749Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

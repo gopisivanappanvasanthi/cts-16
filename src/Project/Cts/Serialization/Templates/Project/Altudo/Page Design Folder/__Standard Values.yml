@@ -1,0 +1,25 @@
+﻿---
+ID: "63565b2f-4e60-48ca-b837-87e70395b688"
+Parent: "6b672be4-f9d4-4353-9b12-317454ea9db5"
+Template: "6b672be4-f9d4-4353-9b12-317454ea9db5"
+Path: /sitecore/templates/Project/Altudo/Page Design Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {6B672BE4-F9D4-4353-9B12-317454EA9DB5}
+    {F9178057-726A-4549-B8A0-15E28E25AA47}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

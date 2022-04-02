@@ -1,0 +1,18 @@
+﻿---
+ID: "234399cc-78ce-46ec-8e1b-655b1ab700fa"
+Parent: "1851cca2-f836-411e-9fce-1cca91606a83"
+Template: "0339bac0-78c1-43c1-b930-f8c26a5fdf80"
+Path: /sitecore/content/Test Tenant/Testsite/Presentation/Placeholder Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172503Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

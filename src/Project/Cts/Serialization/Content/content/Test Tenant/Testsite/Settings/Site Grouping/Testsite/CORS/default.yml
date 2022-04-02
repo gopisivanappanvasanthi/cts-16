@@ -1,0 +1,19 @@
+﻿---
+ID: "d8d644d9-71af-4420-b2f5-3c486e122e89"
+Parent: "a332a4c1-bb55-4507-a976-2fa51c796eb9"
+Template: "5203732f-9512-4ade-8e02-0cb085c10454"
+Path: /sitecore/content/Test Tenant/Testsite/Settings/Site Grouping/Testsite/CORS/default
+DB: master
+BranchID: "f0e39dc1-6a4f-41ed-b0fe-b65bf09a1745"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{10670D11-AD0B-4E03-9118-872819CBA6B2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172516Z

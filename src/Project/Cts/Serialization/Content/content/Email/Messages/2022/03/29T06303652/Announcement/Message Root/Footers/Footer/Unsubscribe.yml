@@ -1,0 +1,30 @@
+﻿---
+ID: "a63e4b3e-a5e4-432b-8e39-14b6da288023"
+Parent: "726d3313-90c2-420c-9e88-ed37f210eac5"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2022/03/29T06303652/Announcement/Message Root/Footers/Footer/Unsubscribe
+DB: master
+BranchID: "8c18055a-eb1e-4358-bc12-26b4e2568910"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C245B6EB-4F21-40B1-AF25-9F8A23C3343D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T063037Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Unsubscribe" linktype="external" url="/sitecore modules/Web/EXM/Unsubscribe.aspx" anchor="" class="em_defaultlink" target="" />

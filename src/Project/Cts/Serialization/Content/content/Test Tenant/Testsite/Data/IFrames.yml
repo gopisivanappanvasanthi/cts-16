@@ -1,0 +1,18 @@
+﻿---
+ID: "760a75ca-bcbf-4877-9f50-97779988f29c"
+Parent: "78c903a8-90d4-4907-baab-9236ee437720"
+Template: "ed1b1ba7-4267-466f-a57a-8d96d2cb979d"
+Path: /sitecore/content/Test Tenant/Testsite/Data/IFrames
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172530Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

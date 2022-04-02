@@ -1,0 +1,33 @@
+﻿---
+ID: "a8e58dce-62df-499c-83cb-321a835d3e48"
+Parent: "dcc189c0-b5d5-4f36-a461-96ef58972d43"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Article Details/Default/ArticleBrief
+DB: master
+BranchID: "5760ea3c-2846-4dae-a398-08ae40bc89b6"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: ArticleBrief
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{54F8B627-6C4A-445C-AE30-C5C0E7447C94}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{202D774B-104D-4988-9542-61FA0800EBE5}"
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T044637Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

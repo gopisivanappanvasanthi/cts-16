@@ -1,0 +1,32 @@
+﻿---
+ID: "f0e86b5d-99fe-4487-becf-b8b0dce29727"
+Parent: "47178ad9-38e6-49fc-9dbf-159b0f009f48"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Event List/Default/EventPlace
+DB: master
+BranchID: "34c38ec6-d380-4bb0-93ab-52f08aecfbfa"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: EventPlace
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "event-list-place"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{089328AA-7FDA-4580-891F-C326854C86D6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

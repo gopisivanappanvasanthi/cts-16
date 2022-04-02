@@ -1,0 +1,21 @@
+﻿---
+ID: "a6b38e64-6be5-40be-a91a-63d8af2cca0a"
+Parent: "c7d47f0f-bafc-4f8e-8587-cda354e972be"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Altudo/MolinaSXA/Home/Data/Monday RichText
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T042612Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: This is my rich text data for monday

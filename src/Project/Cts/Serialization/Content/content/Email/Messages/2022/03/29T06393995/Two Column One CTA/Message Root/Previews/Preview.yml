@@ -1,0 +1,23 @@
+﻿---
+ID: "844f9743-55f5-4065-8628-1b6741c1e20f"
+Parent: "81b9778a-6dcd-46e7-b62b-6394c1cef079"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2022/03/29T06393995/Two Column One CTA/Message Root/Previews/Preview
+DB: master
+BranchID: "2fcd032a-669b-4750-b617-2a38f95e0ea7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D1E970D4-0BA3-4886-9DD2-3DBB461803D0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T063940Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

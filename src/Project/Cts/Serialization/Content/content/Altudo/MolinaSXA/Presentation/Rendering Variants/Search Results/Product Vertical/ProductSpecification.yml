@@ -1,0 +1,22 @@
+﻿---
+ID: "fe22e3d1-df32-46ee-bda3-81eb8bece892"
+Parent: "bd73a449-b6f3-48ac-8875-c96658a14cac"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Search Results/Product Vertical/ProductSpecification
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: ProductSpecification
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T043601Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

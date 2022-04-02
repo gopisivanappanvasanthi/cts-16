@@ -1,0 +1,33 @@
+﻿---
+ID: "a01ca538-9339-484b-9004-3c020625d7bb"
+Parent: "39f4bbb5-ac6b-4d02-92b8-c7fb85d6f054"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Carousel Slick/Default/CarouselListItems/CarouselTitle
+DB: master
+BranchID: "73798e77-4a34-4f81-a033-5010268bc4a3"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: CarouselTitle
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{7FF0B09B-8AAA-469B-8A56-4743E61705EC}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92B2A977-57BB-42A4-9040-D79ACA282D98}"
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T034713Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

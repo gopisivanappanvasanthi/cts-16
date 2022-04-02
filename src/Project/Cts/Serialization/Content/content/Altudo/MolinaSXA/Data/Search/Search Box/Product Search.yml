@@ -1,0 +1,21 @@
+﻿---
+ID: "8fe8271f-66c0-4f90-bddb-79c2f89fb7cc"
+Parent: "a037061b-2a0b-473b-948e-36198b524643"
+Template: "1c04fd61-1d87-4590-acfe-9cc186865ab3"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Search/Search Box/Product Search
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "143bc719-8c3f-42eb-9b1a-2db64c7cfeb7"
+      Hint: SearchTextBoxLabel
+      Value: Search Product
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T040445Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

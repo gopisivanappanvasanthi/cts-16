@@ -1,0 +1,38 @@
+﻿---
+ID: "35334871-baa1-4402-a954-27e2fd057a84"
+Parent: "1538cadb-38ae-4db5-95c6-cf4733319c7e"
+Template: "722c6af6-a951-4b40-bace-1c7e859635fe"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Partial Designs/Product Partial/Product Details
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "product-details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C66D96C9-2741-4C05-ACCB-0B8D34E5B26A}"
+              s:ds=""
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BFF51BF41-A501-4B28-AFE5-674A823B1403%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T063820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

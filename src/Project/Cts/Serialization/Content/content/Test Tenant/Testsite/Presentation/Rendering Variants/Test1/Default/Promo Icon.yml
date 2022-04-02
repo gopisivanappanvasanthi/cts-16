@@ -1,0 +1,26 @@
+﻿---
+ID: "c32e1a77-4a1f-4549-9f15-11be79d111d4"
+Parent: "85601364-4027-4872-bbb7-a1f3c8ead6d9"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Test Tenant/Testsite/Presentation/Rendering Variants/Test1/Default/Promo Icon
+DB: master
+BranchID: "b37fe538-8828-4118-88ff-e01f916aca08"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoIcon
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{74DCC7DE-7711-457A-944B-C6A2FB5FF41D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172511Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

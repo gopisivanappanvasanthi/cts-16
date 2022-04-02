@@ -1,0 +1,80 @@
+﻿---
+ID: "283a0bef-0cf1-4158-8a1f-59ce47c64d41"
+Parent: "67d76d6c-334d-40c3-afcc-c8a016b24551"
+Template: "7b63c4e5-35fd-4609-8004-5c47cf30e246"
+Path: /sitecore/content/Altudo/MolinaSXA/Home/samsung galaxy
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{64D081C0-214E-4CE4-BE36-318A011FE480}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T031240Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: samsung galaxy
+    - ID: "81a0f6e7-ad52-4c05-a5a4-7f03f3353b1c"
+      Hint: ProductImage
+      Value: |
+        <image mediaid="{3426E44B-A089-4DDB-AE46-C1F9B8D5A9D8}" />
+    - ID: "c00647a3-1969-480a-8c9b-317ffac15604"
+      Hint: ProductName
+      Value: Samsung Galaxy mobile
+    - ID: "d3b925ec-a75a-4388-bfed-76a40658aae1"
+      Hint: ProductCategory
+      Value: Highend Phone
+    - ID: "dd79f901-9041-48fa-993d-18bdf7085d2d"
+      Hint: ProductSpecification
+      Value: |
+        <div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-id="92gqeq-ct0lxm-kkc68a-kwjlnk" data-cel-widget="productOverview_feature_div" style="color: #0f1111; background-color: #ffffff;">
+        <div class="a-section a-spacing-small a-spacing-top-small" style="margin-top: 8px; margin-bottom: 0px;">
+        <table class="a-normal a-spacing-micro" style="width: 544.062px; margin-bottom: 4px;">
+            <tbody>
+                <tr class="a-spacing-small po-model_name" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 142.422px; margin-right: 0px; padding: 0px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Model Name</span></td>
+                    <td class="a-span9" style="width: 401.641px; margin-right: 0px; padding: 0px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">Samsung Galaxy Z Flip3 5G</span></td>
+                </tr>
+                <tr class="a-spacing-small po-wireless_provider" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 142.422px; margin-right: 0px; padding: 3px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Wireless Carrier</span></td>
+                    <td class="a-span9" style="width: 401.641px; margin-right: 0px; padding: 3px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">Unlocked for All Carriers</span></td>
+                </tr>
+                <tr class="a-spacing-small po-brand" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 142.422px; margin-right: 0px; padding: 3px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Brand</span></td>
+                    <td class="a-span9" style="width: 401.641px; margin-right: 0px; padding: 3px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">Samsung</span></td>
+                </tr>
+                <tr class="a-spacing-small po-form_factor" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 142.422px; margin-right: 0px; padding: 3px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Form factor</span></td>
+                    <td class="a-span9" style="width: 401.641px; margin-right: 0px; padding: 3px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">Flip</span></td>
+                </tr>
+                <tr class="a-spacing-small po-memory_storage_capacity" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 142.422px; margin-right: 0px; padding: 3px 3px 0px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Memory Storage Capacity</span></td>
+                    <td class="a-span9" style="width: 401.641px; margin-right: 0px; padding: 3px 0px 0px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">128 GB</span></td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        </div>
+        <div id="featurebullets_feature_div" class="celwidget" data-feature-name="featurebullets" data-csa-c-id="64xqge-ku5k9f-a95ivd-mkl91d" data-cel-widget="featurebullets_feature_div" style="color: #0f1111; background-color: #ffffff;">
+        <div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small" style="margin-top: 8px; margin-bottom: 0px;"><hr style="background-color: transparent; height: 1px; margin-top: 0px; margin-bottom: 14px; border-top-color: #e7e7e7; border-top-style: solid; line-height: 19px;" />
+        <h1 class="a-size-base-plus a-text-bold" style="margin: 0px; padding: 0px 0px 4px; line-height: 24px;">About this item</h1>
+        <ul class="a-unordered-list a-vertical a-spacing-mini" style="margin: 0px 0px 0px 18px; padding: 0px;">
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">Main Display -17.03cm (6.7") Dynamic AMOLED 2X Display | Cover Display - 4.82cm (1.9&rdquo; )Super AMOLED Display</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">5G Ready powered by Qualcomm Snapdragon 888 Octa-Core processor, Android 11.0 operating system</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">Corning Gorilla Glass Victus on exterior front cover and exterior back cover.&nbsp;Dolby Stereo Speakers.</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">IPX8 rated Water resistance, Dual SIM (one nano Sim &amp; one e-Sim) Wired 15W / Wireless 10W Wireless PowerShare &amp; Fingerprint Sensor (side)</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">Wireless Charging, Wireless PowerShare &amp; Fingerprint Sensor (side)</span></li>
+        </ul>
+        </div>
+        </div>
+    - ID: "e0a6f66a-95cd-40a3-a623-ec7d78609e1a"
+      Hint: Title
+      Value: samsung galaxy
+    - ID: "f5e2dd32-e269-4736-8e77-5d05b0a49dac"
+      Hint: ProductId
+      Value: 234343

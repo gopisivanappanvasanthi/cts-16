@@ -1,0 +1,27 @@
+﻿---
+ID: "29b25b58-6461-4696-8021-22f38dbcdbd4"
+Parent: "e91db43b-fc27-4802-ae51-f38e5a81b419"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Available Renderings/Custom Components
+DB: master
+BranchID: "64d7aa0a-2835-477c-85d7-762fb9b1a347"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{919619C1-A256-480C-AFA4-79A266113C67}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C574F821-FCB7-4EDF-ADA8-07299401A273}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T044636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

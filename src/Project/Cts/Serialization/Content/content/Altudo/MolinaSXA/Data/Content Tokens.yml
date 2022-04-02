@@ -1,0 +1,18 @@
+﻿---
+ID: "dffe631d-2d36-4f27-a23e-ae007c1cbcc3"
+Parent: "6b2924b4-c6f3-4db3-abd2-aa86698b0806"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Content Tokens
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

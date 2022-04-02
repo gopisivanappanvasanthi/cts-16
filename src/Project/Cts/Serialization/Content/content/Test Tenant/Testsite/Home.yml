@@ -1,0 +1,29 @@
+﻿---
+ID: "d95aa333-bb92-41e7-ad1a-730574ba7820"
+Parent: "57664d22-92fb-44e3-83e8-7959c1083763"
+Template: "8de940f5-8c0b-4700-8aa4-8e83557c0014"
+Path: /sitecore/content/Test Tenant/Testsite/Home
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172500Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Testsite
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "e10a3f46-268d-4521-833d-e52b7af6503b"
+      Hint: Title
+      Value: Testsite

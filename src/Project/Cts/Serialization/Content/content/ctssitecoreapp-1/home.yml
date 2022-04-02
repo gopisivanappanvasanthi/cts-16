@@ -1,24 +1,14 @@
 ﻿---
-ID: "51d5f92f-4ba0-4f94-a0ab-808e02f535ca"
+ID: "5fec9cc6-b44c-4148-aeff-595091658edb"
 Parent: "d9eb9e73-0d3a-48cb-9438-168849e493ba"
-Template: "f1782e77-405a-43f2-a6ed-df4fe59ac7bf"
+Template: "216a905e-bb67-441f-bcff-6acdd2878554"
 Path: "/sitecore/content/ctssitecoreapp-1/home"
 DB: master
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
-  Value: |
-    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{45BC3286-038B-4E17-91B0-513526FF7D78}">
-        <r
-          id="{27E20869-2D85-4E40-BF1D-BF60B02852A8}"
-          ph="jss-main"
-          uid="{1F7BCA65-02DB-4C8D-AD84-0FEFA0C331CB}" />
-      </d>
-    </r>
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -26,8 +16,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20220225T042110Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: |
-        sitecore\Admin
+      Value: 20220225T040930Z

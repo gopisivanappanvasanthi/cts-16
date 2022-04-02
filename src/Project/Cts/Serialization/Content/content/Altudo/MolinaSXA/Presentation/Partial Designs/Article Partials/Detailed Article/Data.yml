@@ -1,0 +1,18 @@
+﻿---
+ID: "990e1102-bbae-48c3-804f-f3f360e4e1fc"
+Parent: "1796bba6-1168-4cef-955b-20badb596b61"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Partial Designs/Article Partials/Detailed Article/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T052400Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "3d38923f-f7db-477c-b6fe-25be14ef9c0b"
+Parent: "5ec4731e-6658-4fa7-816e-89bee086f8f0"
+Template: "5c76ad53-96cd-4b96-9690-dd9af2650171"
+Path: /sitecore/content/Test Tenant/Testsite/Settings/Item Queries
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172530Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

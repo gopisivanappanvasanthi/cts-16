@@ -1,0 +1,18 @@
+﻿---
+ID: "5d649652-e845-4ff5-a8e6-5de902a9db9b"
+Parent: "cad7e411-dbe1-47d2-828e-3557108e11f2"
+Template: "5c76ad53-96cd-4b96-9690-dd9af2650171"
+Path: /sitecore/content/Altudo/MolinaSXA/Settings/Item Queries
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033816Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

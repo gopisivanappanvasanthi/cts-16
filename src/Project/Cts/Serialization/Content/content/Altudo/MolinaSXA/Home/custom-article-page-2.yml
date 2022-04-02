@@ -1,0 +1,44 @@
+﻿---
+ID: "2a2b34ff-9eba-448f-9ba7-fb6e67b71aac"
+Parent: "67d76d6c-334d-40c3-afcc-c8a016b24551"
+Template: "12784a17-3ce6-4e25-ade4-a319feb20888"
+Path: "/sitecore/content/Altudo/MolinaSXA/Home/custom-article-page-2"
+DB: master
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{022640D6-5F23-4DC8-AFF5-99445EF6557C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{EDEA1531-3B92-4DF7-8A67-E07553BE86C5}"
+              s:ds="local:/Data/second-article"
+              s:id="{919619C1-A256-480C-AFA4-79A266113C67}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BA8E4A664-B801-453E-9626-3E25FB5F73AC%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T052621Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "custom-article-page-2"
+    - ID: "c919ab11-8c3e-4212-8703-215de3474fbe"
+      Hint: GenLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="sc_camp=A884F874AA5644BE89235D31AF172ED9" id="{67D76D6C-334D-40C3-AFCC-C8A016B24551}" />
+    - ID: "e0a6f66a-95cd-40a3-a623-ec7d78609e1a"
+      Hint: Title
+      Value: "custom-article-page-2"

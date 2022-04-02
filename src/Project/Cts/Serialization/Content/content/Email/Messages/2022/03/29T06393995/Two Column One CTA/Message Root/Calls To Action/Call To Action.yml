@@ -1,0 +1,23 @@
+﻿---
+ID: "1aeb6115-fc91-4da7-b945-d052e79c7b4d"
+Parent: "2e333561-404e-4113-9877-98243b446345"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/content/Email/Messages/2022/03/29T06393995/Two Column One CTA/Message Root/Calls To Action/Call To Action
+DB: master
+BranchID: "2fcd032a-669b-4750-b617-2a38f95e0ea7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0095CEA4-CC92-425D-99CF-A562E4FE6F9C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T063940Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

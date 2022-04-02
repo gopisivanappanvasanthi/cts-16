@@ -1,0 +1,18 @@
+﻿---
+ID: "11b7ae5e-031b-48ab-960d-4edc1bda4f0b"
+Parent: "36400f8c-71db-4d6b-86c1-f36c6932ea15"
+Template: "bbb9ae71-c6b4-4201-83e7-ac5b3ef373dc"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

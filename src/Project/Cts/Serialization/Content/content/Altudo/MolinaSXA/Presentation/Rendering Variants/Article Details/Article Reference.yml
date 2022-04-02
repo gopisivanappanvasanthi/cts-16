@@ -1,0 +1,23 @@
+﻿---
+ID: "c45ffece-f750-4007-b2c1-f7f6e797c315"
+Parent: "551ca03e-0f4b-4ebd-a786-2fdba189926f"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Article Details/Article Reference
+DB: master
+BranchID: "5760ea3c-2846-4dae-a398-08ae40bc89b6"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{62682F52-B03D-47C8-AE98-A6109D32256F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T044637Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

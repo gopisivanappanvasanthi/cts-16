@@ -1,0 +1,30 @@
+﻿---
+ID: "349902e9-7d26-4469-ae9b-f37a677f999d"
+Parent: "97fb3095-f89a-4b3d-9e7f-b1a3b19d9ea0"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/content/Email/Messages/2022/03/29T06303652/Announcement/Message Root 1/Footers/Footer/Update your preferences
+DB: master
+BranchID: "8c18055a-eb1e-4358-bc12-26b4e2568910"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{58F9D231-08E0-40C3-8355-7F992B49CC85}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T063831Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Update subscription preferences" linktype="external" url="/sitecore modules/Web/EXM/SubscriptionPreferences.ashx" anchor="" class="em_defaultlink" target="" />

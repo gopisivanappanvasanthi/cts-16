@@ -1,0 +1,29 @@
+﻿---
+ID: "a7ab3cbf-bba6-4271-95b0-0a126b002cd9"
+Parent: "86aff66a-7923-4510-8386-c15d6f9dba60"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/File List/All Fields
+DB: master
+BranchID: "83becf6f-0518-4128-a395-8906981b7cb1"
+SharedFields:
+- ID: "90294353-706a-431c-b855-cd245824d9fa"
+  Hint: LinkField
+  Value: File
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E90F1DA0-BF9E-486F-8FEA-427D6CF1297E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033806Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

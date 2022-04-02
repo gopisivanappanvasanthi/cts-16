@@ -1,0 +1,23 @@
+﻿---
+ID: "a03db2da-c90c-468c-9b87-354e2526c4e4"
+Parent: "36400f8c-71db-4d6b-86c1-f36c6932ea15"
+Template: "547beb01-3a01-4f03-9db4-f026ab0b11c0"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Partial Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1DA4DAC3-7948-407B-A30D-D369913CF4F9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033743Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "fdcc0d7e-1484-49bf-aa07-6570e9d9ed78"
+Parent: "36400f8c-71db-4d6b-86c1-f36c6932ea15"
+Template: "6d39afeb-15c9-4cdb-bd92-844265f8b77e"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Component Themes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033825Z

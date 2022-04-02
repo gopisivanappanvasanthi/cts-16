@@ -1,0 +1,26 @@
+﻿---
+ID: "48f0ddcd-2f0e-48e5-8caa-e1af87f70f54"
+Parent: "96501795-685b-4ccf-8c13-1fca2723bc89"
+Template: "96501795-685b-4ccf-8c13-1fca2723bc89"
+Path: /sitecore/templates/Project/Altudo/Site/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {E8E8C94F-4248-43C3-A79F-99FBB49D78E6}
+    {A9172AFA-C97F-4B76-8E16-9A8A4B5D71DE}
+    {5ECD34F4-B36F-4533-9643-DF41CD8B5036}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

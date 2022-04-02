@@ -1,0 +1,23 @@
+﻿---
+ID: "e0e30daf-4ad3-486c-9907-be853249b609"
+Parent: "47750657-e5df-4565-b512-be71934be02d"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Promo/Default
+DB: master
+BranchID: "a19fc87d-262d-42cf-b595-41b4262733f4"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5DF9B10F-F5B5-4E6A-AD58-08125A701147}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033814Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

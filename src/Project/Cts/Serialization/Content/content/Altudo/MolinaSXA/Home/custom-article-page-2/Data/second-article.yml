@@ -1,0 +1,18 @@
+﻿---
+ID: "c3acf3b0-bb25-4311-9785-639d0cedce5e"
+Parent: "022640d6-5f23-4dc8-aff5-99445ef6557c"
+Template: "e6c04649-818f-442b-b2fb-8c91e7a07a78"
+Path: "/sitecore/content/Altudo/MolinaSXA/Home/custom-article-page-2/Data/second-article"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T052702Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,22 @@
+﻿---
+ID: "df1635a0-6f3a-4e9c-82d3-f3a45391a782"
+Parent: "726b4093-d29f-47a9-8719-1e33f1b48621"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Texts/Common Richtext
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T050529Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <b style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">Molina Healthcare</b><span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;is a&nbsp;</span><a href="https://en.wikipedia.org/wiki/Managed_care" title="Managed care" style="text-decoration-line: none; color: rgb(6, 69, 173); background: none rgb(255, 255, 255); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400;">managed care</a><span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;company headquartered in&nbsp;</span><a href="https://en.wikipedia.org/wiki/Long_Beach,_California" title="Long Beach, California" style="text-decoration-line: none; color: rgb(6, 69, 173); background: none rgb(255, 255, 255); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400;">Long Beach, California</a><span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255);">, United States. The company provides&nbsp;</span><a href="https://en.wikipedia.org/wiki/Health_insurance" title="Health insurance" style="text-decoration-line: none; color: rgb(6, 69, 173); background: none rgb(255, 255, 255); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400;">health insurance</a><span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;to individuals through government programs such as&nbsp;</span><a href="https://en.wikipedia.org/wiki/Medicaid" title="Medicaid" style="text-decoration-line: none; color: rgb(6, 69, 173); background: none rgb(255, 255, 255); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400;">Medicaid</a><span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;and&nbsp;</span><a href="https://en.wikipedia.org/wiki/Medicare_(United_States)" title="Medicare (United States)" style="text-decoration-line: none; color: rgb(6, 69, 173); background: none rgb(255, 255, 255); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400;">Medicare</a><span style="color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; font-style: normal; font-weight: 400; background-color: rgb(255, 255, 255);">.</span>

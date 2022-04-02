@@ -1,0 +1,89 @@
+﻿---
+ID: "1d8c3fa4-a38d-424c-a468-a1291a521ada"
+Parent: "67d76d6c-334d-40c3-afcc-c8a016b24551"
+Template: "7b63c4e5-35fd-4609-8004-5c47cf30e246"
+Path: /sitecore/content/Altudo/MolinaSXA/Home/lenova
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{64D081C0-214E-4CE4-BE36-318A011FE480}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T031310Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: lenova
+    - ID: "81a0f6e7-ad52-4c05-a5a4-7f03f3353b1c"
+      Hint: ProductImage
+      Value: |
+        <image mediaid="{0137F32B-B663-4501-A591-90A0BF65CDD8}" />
+    - ID: "c00647a3-1969-480a-8c9b-317ffac15604"
+      Hint: ProductName
+      Value: lenova mobile
+    - ID: "d3b925ec-a75a-4388-bfed-76a40658aae1"
+      Hint: ProductCategory
+      Value: Touch Phone
+    - ID: "dd79f901-9041-48fa-993d-18bdf7085d2d"
+      Hint: ProductSpecification
+      Value: |
+        <div id="renewedProgramDescriptionAtf_feature_div" class="celwidget" data-feature-name="renewedProgramDescriptionAtf" data-csa-c-id="rrrc5q-qr9v69-jl1z0n-64g4td" data-cel-widget="renewedProgramDescriptionAtf_feature_div" style="color: #0f1111; background-color: #ffffff;">
+        <div id="renewedProgramDescriptionAtf" class="a-section a-spacing-medium a-spacing-top-small" style="margin-top: 8px; margin-bottom: 0px;">
+        <h5 style="margin: 0px; padding: 0px; line-height: 20px;">Product will be in refurbished condition and may have a few visible signs of earlier use. Backed by minimum six months Warranty provided by the seller.</h5>
+        <div class="a-section" style="margin-bottom: 0px;"><span>- This product has been professionally inspected and tested to be fully functional by the Sellers.<br />
+        - Product may be packed in a non-branded box.<br />
+        - Accessories may not be original but have been tested to be compatible and fully functional.&nbsp;</span><a class="a-link-normal" href="https://www.amazon.in/Renewed-Lenovo-K9-Black-RAM/dp/B07YSKC5FG/ref=sr_1_1?adgrpid=69084715849&amp;ext_vrnc=hi&amp;gclid=CjwKCAjwoduRBhA4EiwACL5RP8K94dM0g1rwexza32CrQ5QJMq1qxzngpYjrCYRfjLbm2-XvWyCQeRoCu7sQAvD_BwE&amp;hvadid=398133703190&amp;hvdev=c&amp;hvlocphy=9061988&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=13974172845425408411&amp;hvtargid=kwd-59736941024&amp;hydadcr=24571_1971437&amp;keywords=lenovo+phone&amp;qid=1647832649&amp;sr=8-1#renewedProgramDescriptionBtfSection" style="color: #007185;">See terms here.</a></div>
+        </div>
+        </div>
+        <div id="twisterPlusWWDesktop" class="celwidget" data-feature-name="twisterPlusWWDesktop" data-csa-c-id="hk7l7m-9op7fu-ajustz-v3hel1" data-cel-widget="twisterPlusWWDesktop" style="color: #0f1111; background-color: #ffffff;">&nbsp;</div>
+        <div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-id="6yjan3-au8ktf-ck4t0b-vmo1e2" data-cel-widget="productOverview_feature_div" style="color: #0f1111; background-color: #ffffff;">
+        <div class="a-section a-spacing-small a-spacing-top-small" style="margin-top: 8px; margin-bottom: 0px;">
+        <table class="a-normal a-spacing-micro" style="width: 366.812px; margin-bottom: 4px;">
+            <tbody>
+                <tr class="a-spacing-small po-brand" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 96.0312px; margin-right: 0px; padding: 0px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Brand</span></td>
+                    <td class="a-span9" style="width: 270.781px; margin-right: 0px; padding: 0px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">Lenovo</span></td>
+                </tr>
+                <tr class="a-spacing-small po-memory_storage_capacity" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 96.0312px; margin-right: 0px; padding: 3px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Memory Storage Capacity</span></td>
+                    <td class="a-span9" style="width: 270.781px; margin-right: 0px; padding: 3px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">32 GB</span></td>
+                </tr>
+                <tr class="a-spacing-small po-operating_system" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 96.0312px; margin-right: 0px; padding: 3px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">OS</span></td>
+                    <td class="a-span9" style="width: 270.781px; margin-right: 0px; padding: 3px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">Android</span></td>
+                </tr>
+                <tr class="a-spacing-small po-color" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 96.0312px; margin-right: 0px; padding: 3px 3px 3px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Colour</span></td>
+                    <td class="a-span9" style="width: 270.781px; margin-right: 0px; padding: 3px 0px 3px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">Black</span></td>
+                </tr>
+                <tr class="a-spacing-small po-display.size" style="margin-bottom: 8px;">
+                    <td class="a-span3" style="width: 96.0312px; margin-right: 0px; padding: 3px 3px 0px 0px; text-align: left;"><span class="a-size-base a-text-bold" style="line-height: 20px;">Screen Size</span></td>
+                    <td class="a-span9" style="width: 270.781px; margin-right: 0px; padding: 3px 0px 0px 3px; text-align: left;"><span class="a-size-base" style="line-height: 20px;">5.7 Inches</span></td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        </div>
+        <div id="featurebullets_feature_div" class="celwidget" data-feature-name="featurebullets" data-csa-c-id="pi7fgu-8qa7bp-fbbyll-cje5ti" data-cel-widget="featurebullets_feature_div" style="color: #0f1111; background-color: #ffffff;">
+        <div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small" style="margin-top: 8px; margin-bottom: 0px;"><hr style="background-color: transparent; height: 1px; margin-top: 0px; margin-bottom: 14px; border-top-color: #e7e7e7; border-top-style: solid; line-height: 19px;" />
+        <h1 class="a-size-base-plus a-text-bold" style="margin: 0px; padding: 0px 0px 4px; line-height: 24px;">About this item</h1>
+        <ul class="a-unordered-list a-vertical a-spacing-mini" style="margin: 0px 0px 0px 18px; padding: 0px;">
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">This Certified Refurbished product is tested to work and look like new with minimal to no signs of wear &amp; tear; the product comes with relevant accessories and is backed by a minimum six month supplier backed warranty; box may be generic</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">3 GB RAM | 32 GB ROM | Expandable Upto 256 GB</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">14.48 cm (5.7 inch) HD+ Display</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">13MP + 5MP | 13MP + 5MP Dual Front Camera</span></li>
+            <li style="margin: 0px; list-style-type: disc; list-style-image: initial;"><span class="a-list-item">3000 Battery</span></li>
+        </ul>
+        <span class="caretnext" style="margin-left: 4px; color: #cc6600;">&rsaquo;</span>&nbsp;<a id="seeMoreDetailsLink" class="a-link-normal" href="https://www.amazon.in/Renewed-Lenovo-K9-Black-RAM/dp/B07YSKC5FG/ref=sr_1_1?adgrpid=69084715849&amp;ext_vrnc=hi&amp;gclid=CjwKCAjwoduRBhA4EiwACL5RP8K94dM0g1rwexza32CrQ5QJMq1qxzngpYjrCYRfjLbm2-XvWyCQeRoCu7sQAvD_BwE&amp;hvadid=398133703190&amp;hvdev=c&amp;hvlocphy=9061988&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=13974172845425408411&amp;hvtargid=kwd-59736941024&amp;hydadcr=24571_1971437&amp;keywords=lenovo+phone&amp;qid=1647832649&amp;sr=8-1#productDetails" style="color: #007185;">See more product details</a></div>
+        </div>
+    - ID: "e0a6f66a-95cd-40a3-a623-ec7d78609e1a"
+      Hint: Title
+      Value: lenova
+    - ID: "f5e2dd32-e269-4736-8e77-5d05b0a49dac"
+      Hint: ProductId
+      Value: 4545454

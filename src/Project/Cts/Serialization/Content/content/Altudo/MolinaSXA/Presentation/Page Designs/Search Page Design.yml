@@ -1,0 +1,21 @@
+﻿---
+ID: "c44fefe1-ad84-4ae9-b6e8-bcd0d4a79f9b"
+Parent: "b96d9973-9aec-4ff7-845e-fb95bdedeac2"
+Template: "f9178057-726a-4549-b8a0-15e28e25aa47"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Page Designs/Search Page Design
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{355F43F4-8582-48CB-A8F4-373DA3B3B941}"
+- ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
+  Hint: Page Design Theme
+  Value: "{7E30B81C-B458-4BA1-B71B-78BE58D724D0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T035458Z

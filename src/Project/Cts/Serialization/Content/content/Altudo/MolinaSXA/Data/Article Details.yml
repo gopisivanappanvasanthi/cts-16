@@ -1,0 +1,18 @@
+﻿---
+ID: "869e4db1-02b3-4038-9442-f5e599a72742"
+Parent: "6b2924b4-c6f3-4db3-abd2-aa86698b0806"
+Template: "af7d5784-1711-47dc-ab9f-f20d4db6b65b"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Article Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T044636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,38 @@
+﻿---
+ID: "f01f1533-854b-4d50-bf05-425dcde25c59"
+Parent: "be9cb514-a69d-49bc-abb7-a473f334d5bf"
+Template: "722c6af6-a951-4b40-bace-1c7e859635fe"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Partial Designs/Article Partials/Article Carousel
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: carousel
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A2A9EC32-32CE-48CC-85C7-5D765096B9AB}"
+              s:ds="{A909AE64-4C17-47FE-8CF9-A77537431EAC}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="Navigation=%7B848DFE42-2B13-430E-A0B9-89CE25730A06%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T051643Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

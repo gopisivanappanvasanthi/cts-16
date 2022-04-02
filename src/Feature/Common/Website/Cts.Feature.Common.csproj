@@ -265,10 +265,15 @@
   <ItemGroup>
     <Content Include="App_Config\Include\Cts\Cts.Feature.Common.PageNotFoundResolver.config" />
     <Content Include="App_Config\Include\Cts\FieldSerializer.config" />
+    <Content Include="App_Config\Include\Cts\Altudo.Feature.Common.CustomCommands.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
+    <Compile Include="ContentEditorCustom\ChildCount.cs" />
+    <Compile Include="ContentEditorCustom\ChildTemplate.cs" />
+    <Compile Include="ContentEditorCustom\CustomClick.cs" />
+    <Compile Include="ContentEditorCustom\DisplayName.cs" />
     <Compile Include="Pipelines\HandleServerError.cs" />
     <Compile Include="Pipelines\PageNotFoundResolver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

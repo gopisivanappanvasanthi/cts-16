@@ -1,0 +1,18 @@
+﻿---
+ID: "eaf51fee-55e9-440e-b9e1-91024a18ce22"
+Parent: "1851cca2-f836-411e-9fce-1cca91606a83"
+Template: "26fce9bf-0256-458d-8281-a713a5bf5520"
+Path: /sitecore/content/Test Tenant/Testsite/Presentation/Cache Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172504Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

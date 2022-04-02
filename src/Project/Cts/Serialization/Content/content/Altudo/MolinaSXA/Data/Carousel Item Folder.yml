@@ -1,0 +1,14 @@
+﻿---
+ID: "aa10b26d-e29a-413b-9fb5-803fbbfe0841"
+Parent: "6b2924b4-c6f3-4db3-abd2-aa86698b0806"
+Template: "6c4bc713-32ac-48f3-8e85-f9a529bcd9aa"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Carousel Item Folder
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T035112Z

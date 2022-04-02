@@ -1,0 +1,19 @@
+﻿---
+ID: "37081130-1202-4cf1-83ef-2bcc1cd39757"
+Parent: "36400f8c-71db-4d6b-86c1-f36c6932ea15"
+Template: "fa0b4154-bb8a-4670-b378-e27ebc41445b"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Layout Service
+DB: master
+BranchID: "b002c2a2-6ded-4fcb-be63-dfc310d6bcf3"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{90473637-7CF5-4C5F-8F9B-5043DDC0ED9F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033803Z

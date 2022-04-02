@@ -1,0 +1,14 @@
+﻿---
+ID: "bc8f5547-5ea1-4b44-b22b-dfc1d18316ae"
+Parent: "cba122f1-89ff-49d4-911c-12bf3547008e"
+Template: "20ef5e69-b366-4e9e-960b-e451b24dbd46"
+Path: /sitecore/content/Altudo/MolinaSXA/Settings/Facets/Product Grouping
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T053352Z

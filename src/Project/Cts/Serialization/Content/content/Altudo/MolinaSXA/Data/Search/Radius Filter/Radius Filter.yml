@@ -1,0 +1,22 @@
+﻿---
+ID: "7399d150-f22f-42b7-ad57-52660d9b520b"
+Parent: "f328f78b-f8e6-4ebc-bc33-a65e7574b973"
+Template: "de3fa58e-ef9d-4544-9f77-dcd1dbb05b64"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Search/Radius Filter/Radius Filter
+DB: master
+SharedFields:
+- ID: "ae5d211a-4ff1-4e9e-ba0f-9442b0abca91"
+  Hint: Facet
+  Value: "{D4B9D040-4701-4AFE-8B28-8637AE1C9544}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033825Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

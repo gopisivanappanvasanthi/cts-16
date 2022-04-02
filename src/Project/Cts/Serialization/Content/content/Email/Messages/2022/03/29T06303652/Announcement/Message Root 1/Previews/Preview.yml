@@ -1,0 +1,26 @@
+﻿---
+ID: "8efa05a8-ce36-4500-bf70-11f6bb5d1ceb"
+Parent: "cc206d41-31cf-4d51-a99a-baab24be5b01"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/content/Email/Messages/2022/03/29T06303652/Announcement/Message Root 1/Previews/Preview
+DB: master
+BranchID: "8c18055a-eb1e-4358-bc12-26b4e2568910"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FF44EEA5-9A67-4E61-960A-9E8BE8F3AB0A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T063830Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "0e990568-5a1a-4710-bed0-39395c2201f9"
+Parent: "7c8ac78c-0ee7-479c-b012-727040086185"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Images/Image
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T041448Z
+    - ID: "4f52b258-7b05-4d6c-8c96-2e2eac46dc1b"
+      Hint: ImageCaption
+      Value: Molina Image
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{1614F55E-98C7-486E-9F3C-CABB590F88AD}" />

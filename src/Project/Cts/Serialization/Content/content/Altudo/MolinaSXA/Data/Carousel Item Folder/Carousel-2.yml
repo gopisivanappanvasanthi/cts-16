@@ -1,0 +1,28 @@
+﻿---
+ID: "88293c12-bdb1-49bc-b91e-a8612b0642f2"
+Parent: "aa10b26d-e29a-413b-9fb5-803fbbfe0841"
+Template: "dd8fa160-3a12-4efc-b6d1-25fac74593b8"
+Path: "/sitecore/content/Altudo/MolinaSXA/Data/Carousel Item Folder/Carousel-2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T035137Z
+    - ID: "2cf3879b-a0df-4631-a51d-7d6623ab53d6"
+      Hint: CarouselImage
+      Value: |
+        <image mediaid="{87AF3F39-500F-4A18-9C16-808CAE48C057}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b1e4e4b3-06ac-49b1-bbbc-30f0691e976f"
+      Hint: CarouselSubTitle
+      Value: a new sub title
+    - ID: "e459fe74-008e-46ba-973f-bd0366907542"
+      Hint: CarouselTitle
+      Value: Carousel 2

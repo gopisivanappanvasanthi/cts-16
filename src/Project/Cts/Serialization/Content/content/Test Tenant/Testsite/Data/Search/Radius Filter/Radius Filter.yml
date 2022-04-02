@@ -1,0 +1,22 @@
+﻿---
+ID: "4f879245-7e96-4add-a7dc-e288e16f45a8"
+Parent: "24d4e6dc-9997-449a-a8e0-3398dbcc1246"
+Template: "de3fa58e-ef9d-4544-9f77-dcd1dbb05b64"
+Path: /sitecore/content/Test Tenant/Testsite/Data/Search/Radius Filter/Radius Filter
+DB: master
+SharedFields:
+- ID: "ae5d211a-4ff1-4e9e-ba0f-9442b0abca91"
+  Hint: Facet
+  Value: "{AFBFC140-4BAC-42D6-A5BC-122667E6365B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172540Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

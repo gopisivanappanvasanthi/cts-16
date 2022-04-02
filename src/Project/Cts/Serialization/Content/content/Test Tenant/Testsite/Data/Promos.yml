@@ -1,0 +1,18 @@
+﻿---
+ID: "7830d2bf-36ba-400f-9a1b-09666c318b2b"
+Parent: "78c903a8-90d4-4907-baab-9236ee437720"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/Test Tenant/Testsite/Data/Promos
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172527Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

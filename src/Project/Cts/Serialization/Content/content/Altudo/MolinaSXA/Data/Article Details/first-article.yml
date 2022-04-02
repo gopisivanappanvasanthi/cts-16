@@ -1,0 +1,35 @@
+﻿---
+ID: "29cd44d8-48de-4da9-b56e-f6a23c2fa62b"
+Parent: "869e4db1-02b3-4038-9442-f5e599a72742"
+Template: "e6c04649-818f-442b-b2fb-8c91e7a07a78"
+Path: "/sitecore/content/Altudo/MolinaSXA/Data/Article Details/first-article"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0774f9f1-3ec8-435e-ac38-8c2a3ae53c05"
+      Hint: ArticleDetailedDescription
+      Value: |
+        <p>lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;</p>
+        <p>lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp; v</p>
+        <p>lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp; v</p>
+        <p>lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;lorum ipsum&nbsp;&nbsp;</p>
+    - ID: "1d55c1ef-7a04-46e4-be8c-7ab8d0d08a39"
+      Hint: ArticleBrief
+      Value: This is my first custom component created agnostic of a website and installed independently
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T045001Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70cb86f9-1804-4aea-ac5c-7178686c8310"
+      Hint: ArticleFeaturedImage
+      Value: |
+        <image mediaid="{1E758922-83FD-4236-B63F-B51997955FE2}" />
+    - ID: "9486e95d-0834-46cc-9595-114f6052fd86"
+      Hint: ArticleTitle
+      Value: My first custom article component

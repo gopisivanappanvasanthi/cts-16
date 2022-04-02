@@ -1,0 +1,115 @@
+﻿---
+ID: "f2efe90b-c8c0-44f2-ae6b-60fd22f28d75"
+Parent: "67d76d6c-334d-40c3-afcc-c8a016b24551"
+Template: "7b63c4e5-35fd-4609-8004-5c47cf30e246"
+Path: /sitecore/content/Altudo/MolinaSXA/Home/iphone 12
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{64D081C0-214E-4CE4-BE36-318A011FE480}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T031247Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: iphone 12
+    - ID: "81a0f6e7-ad52-4c05-a5a4-7f03f3353b1c"
+      Hint: ProductImage
+      Value: |
+        <image mediaid="{E7A101E1-F1DC-4340-8F39-172BDB9E2D38}" />
+    - ID: "c00647a3-1969-480a-8c9b-317ffac15604"
+      Hint: ProductName
+      Value: iphone 12 mobile
+    - ID: "d3b925ec-a75a-4388-bfed-76a40658aae1"
+      Hint: ProductCategory
+      Value: Touch Phone
+    - ID: "dd79f901-9041-48fa-993d-18bdf7085d2d"
+      Hint: ProductSpecification
+      Value: |
+        <table cellspacing="0" style="color: #000000; background-color: #fafafa; width: 727px; margin: 0px; padding: 1px 0px; border-spacing: 0px; border-top: none; border-right: 0px; border-bottom: 0px; border-left: 0px; line-height: inherit;">
+            <tbody style="width: 727px; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                <tr class="tr-hover" style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <th rowspan="15" scope="row" style="color: #d50000; width: 86px; margin: 0px; padding: 2px 10px; border-width: 0px medium 0px 0px; border-top-style: initial; border-color: initial; border-right-style: none; border-bottom-style: initial; border-left-style: initial; text-align: left; line-height: normal;">NETWORK</th>
+                    <td class="ttl" style="color: #7d7464; background: #ffffff; width: 110px; margin: 0px; padding: 3px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/network-bands.php3" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Technology</a></td>
+                    <td class="nfo" style="background: #ffffff; margin: 0px; padding: 3px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/apple_iphone_12-10509.php#" class="link-network-detail collapse" data-spec="nettech" style="color: #d50000; height: 19px; width: 521.219px; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">GSM / CDMA / HSPA / EVDO / LTE / 5G</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <table cellspacing="0" style="color: #000000; background-color: #fafafa; width: 727px; margin: 0px; padding: 1px 0px; border-spacing: 0px; border-width: 5px 0px 0px; border-top-style: solid; border-top-color: #eeeeee; border-right-style: initial; border-right-color: initial; border-bottom-style: initial; border-bottom-color: initial; border-left-style: initial; border-left-color: initial; line-height: inherit;">
+            <tbody style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <th rowspan="2" scope="row" style="color: #d50000; width: 86px; margin: 0px; padding: 2px 10px; border-width: 0px medium 0px 0px; border-top-style: initial; border-color: initial; border-right-style: none; border-bottom-style: initial; border-left-style: initial; text-align: left; line-height: normal;">LAUNCH</th>
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/glossary.php3?term=phone-life-cycle" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Announced</a></td>
+                    <td class="nfo" data-spec="year" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">2020, October 13</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px medium; border-top-style: initial; border-color: initial; border-right-style: initial; border-bottom-style: none; border-left-style: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/glossary.php3?term=phone-life-cycle" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Status</a></td>
+                    <td class="nfo" data-spec="status" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px medium; border-top-style: initial; border-color: initial; border-right-style: initial; border-bottom-style: none; border-left-style: initial; text-align: left; line-height: 16px;">Available. Released 2020, October 23</td>
+                </tr>
+            </tbody>
+        </table>
+        <table cellspacing="0" style="color: #000000; background-color: #fafafa; width: 727px; margin: 0px; padding: 1px 0px; border-spacing: 0px; border-width: 5px 0px 0px; border-top-style: solid; border-top-color: #eeeeee; border-right-style: initial; border-right-color: initial; border-bottom-style: initial; border-bottom-color: initial; border-left-style: initial; border-left-color: initial; line-height: inherit;">
+            <tbody style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <th rowspan="6" scope="row" style="color: #d50000; width: 86px; margin: 0px; padding: 2px 10px; border-width: 0px medium 0px 0px; border-top-style: initial; border-color: initial; border-right-style: none; border-bottom-style: initial; border-left-style: initial; text-align: left; line-height: normal;">BODY</th>
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/apple_iphone_12-10509.php#" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Dimensions</a></td>
+                    <td class="nfo" data-spec="dimensions" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in)</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/apple_iphone_12-10509.php#" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Weight</a></td>
+                    <td class="nfo" data-spec="weight" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">164 g (5.78 oz)</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/glossary.php3?term=build" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Build</a></td>
+                    <td class="nfo" data-spec="build" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/glossary.php3?term=sim" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">SIM</a></td>
+                    <td class="nfo" data-spec="sim" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">Single SIM (Nano-SIM and/or eSIM) or Dual SIM (Nano-SIM, dual stand-by) - for China</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px medium; border-top-style: initial; border-color: initial; border-right-style: initial; border-bottom-style: none; border-left-style: initial; text-align: left; line-height: 16px;"></td>
+                    <td class="nfo" data-spec="bodyother" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px medium; border-top-style: initial; border-color: initial; border-right-style: initial; border-bottom-style: none; border-left-style: initial; text-align: left; line-height: 16px;">IP68 dust/water resistant (up to 6m for 30 mins)<br style="width: calc(100% + 20px); margin: 2px 0px; border-top: 1px solid #f0f0f0; line-height: 23px;" />
+                    Apple Pay (Visa, MasterCard, AMEX certified)</td>
+                </tr>
+            </tbody>
+        </table>
+        <table cellspacing="0" style="color: #000000; background-color: #fafafa; width: 727px; margin: 0px; padding: 1px 0px; border-spacing: 0px; border-width: 5px 0px 0px; border-top-style: solid; border-top-color: #eeeeee; border-right-style: initial; border-right-color: initial; border-bottom-style: initial; border-bottom-color: initial; border-left-style: initial; border-left-color: initial; line-height: inherit;">
+            <tbody style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <th rowspan="5" scope="row" style="color: #d50000; width: 86px; margin: 0px; padding: 2px 10px; border-width: 0px medium 0px 0px; border-top-style: initial; border-color: initial; border-right-style: none; border-bottom-style: initial; border-left-style: initial; text-align: left; line-height: normal;">DISPLAY</th>
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/glossary.php3?term=display-type" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Type</a></td>
+                    <td class="nfo" data-spec="displaytype" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">Super Retina XDR OLED, HDR10, Dolby Vision, 625 nits (HBM), 1200 nits (peak)</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/apple_iphone_12-10509.php#" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Size</a></td>
+                    <td class="nfo" data-spec="displaysize" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">6.1 inches, 90.2 cm<sup style="margin: 0px; padding: 0px; border: 0px; line-height: 0.8em;">2</sup>(~86.0% screen-to-body ratio)</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/glossary.php3?term=resolution" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Resolution</a></td>
+                    <td class="nfo" data-spec="displayresolution" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;"><a href="https://www.gsmarena.com/glossary.php3?term=screen-protection" style="color: #555555; margin: 0px; padding: 0px; border: 0px; line-height: inherit;">Protection</a></td>
+                    <td class="nfo" data-spec="displayprotection" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px 1px; border-top-style: initial; border-top-color: initial; border-right-style: initial; border-right-color: initial; border-bottom-style: solid; border-bottom-color: #f0f0f0; border-left-style: initial; border-left-color: initial; text-align: left; line-height: 16px;">Scratch-resistant ceramic glass, oleophobic coating</td>
+                </tr>
+                <tr style="margin: 0px; padding: 0px; border: 0px; line-height: inherit;">
+                    <td class="ttl" style="color: #7d7464; width: 110px; margin: 0px; padding: 2px 10px; border-width: 0px 0px medium; border-top-style: initial; border-color: initial; border-right-style: initial; border-bottom-style: none; border-left-style: initial; text-align: left; line-height: 16px;"></td>
+                    <td class="nfo" data-spec="displayother" style="margin: 0px; padding: 2px 10px; border-width: 0px 0px medium; border-top-style: initial; border-color: initial; border-right-style: initial; border-bottom-style: none; border-left-style: initial; text-align: left; line-height: 16px;">Wide color gamut<br style="width: calc(100% + 20px); margin: 2px 0px; border-top: 1px solid #f0f0f0; line-height: 23px;" />
+                    True-tone</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "e0a6f66a-95cd-40a3-a623-ec7d78609e1a"
+      Hint: Title
+      Value: iphone 12
+    - ID: "f5e2dd32-e269-4736-8e77-5d05b0a49dac"
+      Hint: ProductId
+      Value: 232

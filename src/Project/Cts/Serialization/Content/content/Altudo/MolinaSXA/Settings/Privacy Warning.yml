@@ -1,0 +1,18 @@
+﻿---
+ID: "3163c6df-15ee-4fbd-aeba-897da95ccac8"
+Parent: "cad7e411-dbe1-47d2-828e-3557108e11f2"
+Template: "dc66d5da-3216-48e6-ae78-bac8445b6a46"
+Path: /sitecore/content/Altudo/MolinaSXA/Settings/Privacy Warning
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

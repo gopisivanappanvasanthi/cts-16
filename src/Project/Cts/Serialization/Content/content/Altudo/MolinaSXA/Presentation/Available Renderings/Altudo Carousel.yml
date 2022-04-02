@@ -1,0 +1,27 @@
+﻿---
+ID: "95bccb3e-4552-4edf-82f1-687f2339b49b"
+Parent: "e91db43b-fc27-4802-ae51-f38e5a81b419"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Available Renderings/Altudo Carousel
+DB: master
+BranchID: "c14aacdb-4cb4-46f1-86f2-218e0dd9ec97"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{BCA8BDD4-F6B3-4BC2-AE46-02D72690CEC4}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{07DFE915-CDED-480C-AD5A-0C2370D0725F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T034712Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

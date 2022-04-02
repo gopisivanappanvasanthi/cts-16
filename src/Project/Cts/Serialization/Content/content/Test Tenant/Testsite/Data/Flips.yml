@@ -1,0 +1,18 @@
+﻿---
+ID: "ac94a33b-6ec4-4660-ab8c-0093d7233f44"
+Parent: "78c903a8-90d4-4907-baab-9236ee437720"
+Template: "8d84f263-a22a-4967-9cce-cc12407e05fc"
+Path: /sitecore/content/Test Tenant/Testsite/Data/Flips
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172513Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

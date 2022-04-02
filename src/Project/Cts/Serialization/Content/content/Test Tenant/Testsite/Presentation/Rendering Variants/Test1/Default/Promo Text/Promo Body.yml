@@ -1,0 +1,26 @@
+﻿---
+ID: "f4200a7a-b266-46d4-ac7d-c451938c9f1a"
+Parent: "4109aba1-4a10-4972-b29c-f71e87946490"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/Test Tenant/Testsite/Presentation/Rendering Variants/Test1/Default/Promo Text/Promo Body
+DB: master
+BranchID: "b37fe538-8828-4118-88ff-e01f916aca08"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{662BA5B7-EE37-4C20-AECA-569B78CFBF3E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172512Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

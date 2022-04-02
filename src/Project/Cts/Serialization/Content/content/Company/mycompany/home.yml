@@ -21,6 +21,14 @@ SharedFields:
           s:ccb="Clear on publish"
           s:ds="{F4070FBA-70F6-4D15-A222-8D1258EE0F9A}"
           s:par="" />
+        <r
+          uid="{8AFA7A4A-5C8F-4944-A5EE-3BEB1CB5584D}"
+          p:after="*[1=2]"
+          s:ds="{7836B4F4-8601-49F7-A7E1-9E704CA29E78}"
+          s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+          s:par=""
+          s:ph="cts-main"
+          s:ccb="Clear on publish" />
       </d>
     </r>
 Languages:
@@ -39,7 +47,7 @@ Languages:
             <r
               uid="{297E9D36-48AE-4143-B0F8-AFF07B1400D0}"
               s:ds="{9C34C9EE-0CCE-4852-8AC1-4A774F523BC2}"
-              s:pt="{6BA097EE-3347-482F-94F3-2DD08F74EF15}"
+              s:pt="{FEA2AD3C-E91E-4A31-A4E2-BD4EE4B35022}"
               s:uid="{297E9D36-48AE-4143-B0F8-AFF07B1400D0}">
               <rls>
                 <ruleset
@@ -103,7 +111,7 @@ Languages:
               p:after="*[1=2]"
               s:ds="{DDC4DD93-DEC6-4D71-AB5C-C2C646150F78}"
               s:id="{344DF955-8429-42AC-89D4-F621B67A0EE1}"
-              s:pt="{6BA097EE-3347-482F-94F3-2DD08F74EF15}"
+              s:pt="{FEA2AD3C-E91E-4A31-A4E2-BD4EE4B35022}"
               s:par=""
               s:ph="cts-main">
               <rls>

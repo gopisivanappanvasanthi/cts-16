@@ -1,0 +1,29 @@
+﻿---
+ID: "707cb4fd-9fa3-4e4c-a07d-3565dc305193"
+Parent: "dcc189c0-b5d5-4f36-a461-96ef58972d43"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Article Details/Default/ArticleFeaturedImage
+DB: master
+BranchID: "5760ea3c-2846-4dae-a398-08ae40bc89b6"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: ArticleFeaturedImage
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4E5F2B55-0FAF-42B0-B52C-87706FA013D1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T044637Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,26 @@
+﻿---
+ID: "b3b2deba-707f-4441-a7be-518421efd5f7"
+Parent: "e0ed99df-851a-44d4-a240-b5506d6682ab"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Aggregated Facet Filter/Default
+DB: master
+BranchID: "f85580ce-5a51-4e53-a0b4-9361380d76ab"
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: horizontal
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D7A9339F-0B5E-43FC-918F-8E2527255354}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

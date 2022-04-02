@@ -1,0 +1,43 @@
+﻿---
+ID: "a5669d06-016c-4eca-8987-9d63c3cc2d4b"
+Parent: "192da1f2-2e8a-5695-abfa-26a4fc348cfb"
+Template: "463067a4-5803-51c8-9c51-9e66b1e68f82"
+Path: /sitecore/content/altudoapp/home/EmployeeDataSubJSS
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{CC7059C7-96BB-4C9B-AE93-09B5C47D9DEF}"
+          p:after="*[1=2]"
+          s:ds="{4BDC891B-6C1B-4E0D-87D4-DAFAEDCE37DA}"
+          s:id="{5620C32F-0FDB-4D5B-B92E-43F70DC54ECB}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220324T061901Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

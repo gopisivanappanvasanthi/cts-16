@@ -1,0 +1,25 @@
+﻿---
+ID: "ce24e604-d791-444a-9060-c83d11ed4f14"
+Parent: "bc8f5547-5ea1-4b44-b22b-dfc1d18316ae"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Altudo/MolinaSXA/Settings/Facets/Product Grouping/Products
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: ProductCategory
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T053415Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Products
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

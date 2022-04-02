@@ -10,7 +10,7 @@ SharedFields:
   Value: Applications/32x32/font.png
 - ID: "dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b"
   Hint: Click
-  Value: "alduto:getchilditemtemplate"
+  Value: "altudo:getchilditemtemplate"
 Languages:
 - Language: en
   Versions:

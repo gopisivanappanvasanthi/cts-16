@@ -1,0 +1,18 @@
+﻿---
+ID: "34332c16-3111-463e-9f9e-8961ab84af98"
+Parent: "78c903a8-90d4-4907-baab-9236ee437720"
+Template: "1dc97094-8357-4335-8df5-3349193b1e02"
+Path: /sitecore/content/Test Tenant/Testsite/Data/Skip Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172511Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

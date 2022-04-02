@@ -1,0 +1,18 @@
+﻿---
+ID: "9e9defe1-a4e5-40e7-bd32-ac7dfb6158ea"
+Parent: "cad7e411-dbe1-47d2-828e-3557108e11f2"
+Template: "c2dc4690-af44-48c7-bb21-90d1ad246732"
+Path: /sitecore/content/Altudo/MolinaSXA/Settings/Redirects
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033748Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

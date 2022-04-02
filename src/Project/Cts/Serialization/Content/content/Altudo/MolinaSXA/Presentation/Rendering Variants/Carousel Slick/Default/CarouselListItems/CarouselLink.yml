@@ -1,0 +1,30 @@
+﻿---
+ID: "7d681ce7-7493-4826-aa9c-024738975599"
+Parent: "39f4bbb5-ac6b-4d02-92b8-c7fb85d6f054"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Rendering Variants/Carousel Slick/Default/CarouselListItems/CarouselLink
+DB: master
+BranchID: "73798e77-4a34-4f81-a033-5010268bc4a3"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: CarouselLink
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{87C7CE07-9BF8-4D48-9223-C9DBDB93640B}"
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T034713Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

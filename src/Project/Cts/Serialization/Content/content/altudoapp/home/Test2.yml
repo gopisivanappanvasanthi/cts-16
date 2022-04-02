@@ -1,0 +1,71 @@
+﻿---
+ID: "4cf018b6-9932-47b4-920f-2941d2a4822e"
+Parent: "192da1f2-2e8a-5695-abfa-26a4fc348cfb"
+Template: "463067a4-5803-51c8-9c51-9e66b1e68f82"
+Path: /sitecore/content/altudoapp/home/Test2
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{A3684891-EEEA-43E1-A888-FEA110C689AB}">
+            <p
+              uid="{43BCE0F1-8523-5077-91CA-DDBB8F0CAD4B}">
+              <p:d />
+            </p>
+            <r
+              uid="{42A4F4D6-2133-4519-855E-E33A43BB0E28}"
+              s:ds="{7836B4F4-8601-49F7-A7E1-9E704CA29E78}"
+              s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+              s:par=""
+              s:ph="cts-main"
+              s:ccb="Clear on publish" />
+            <p
+              uid="{301E7A4A-CB0E-5899-89DB-3CD896858FE3}">
+              <p:d />
+            </p>
+            <p
+              uid="{F46219C1-7D6B-544F-8694-E6D82822DED1}">
+              <p:d />
+            </p>
+            <p
+              uid="{CA760C25-82E7-5A85-B485-E0C1825D4E75}">
+              <p:d />
+            </p>
+            <p
+              uid="{12AC61E4-7677-5303-9D9C-601BB773F1AC}">
+              <p:d />
+            </p>
+            <p
+              uid="{E1910276-A2D7-5897-B54E-9DE6D425C051}">
+              <p:d />
+            </p>
+            <p
+              uid="{CCF0F645-2430-5605-B7D9-B1BF4E69E39C}">
+              <p:d />
+            </p>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220329T031330Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

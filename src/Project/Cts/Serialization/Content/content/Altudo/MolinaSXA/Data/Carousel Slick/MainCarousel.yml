@@ -1,0 +1,24 @@
+﻿---
+ID: "888f712c-80e7-4143-bdd6-01552228110e"
+Parent: "323cf73d-2be8-4f0f-9047-07c7765d6fa8"
+Template: "df2f1c24-e2ca-4dfc-837c-d991ff24f9eb"
+Path: /sitecore/content/Altudo/MolinaSXA/Data/Carousel Slick/MainCarousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T034944Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8473529d-5d5e-4c1b-b621-718c44faf8c5"
+      Hint: CarouselListItems
+      Type: Treelist
+      Value: |
+        {2A49EA87-8E11-4D84-BDFC-FCCC632CBAD2}
+        {88293C12-BDB1-49BC-B91E-A8612B0642F2}

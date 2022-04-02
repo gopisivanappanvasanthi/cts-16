@@ -1,0 +1,25 @@
+﻿---
+ID: "4d8be19c-bd8d-492d-8b4b-d782018a92f5"
+Parent: "1daf7ff0-bda1-4e21-8a95-6577e4d69ad1"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/Altudo/MolinaSXA/Presentation/Partial Designs/Article Partials/ArticleIntro/Data/promo-2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "Promo-2"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{1E758922-83FD-4236-B63F-B51997955FE2}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T052145Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

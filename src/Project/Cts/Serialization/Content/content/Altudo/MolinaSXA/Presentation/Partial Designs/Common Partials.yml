@@ -1,0 +1,14 @@
+﻿---
+ID: "91313d76-1c72-4f5c-8366-c6b30ced4159"
+Parent: "a03db2da-c90c-468c-9b87-354e2526c4e4"
+Template: "53cf4e9b-9684-4e82-8b9d-5b25db81f30e"
+Path: /sitecore/content/Altudo/MolinaSXA/Presentation/Partial Designs/Common Partials
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T062328Z

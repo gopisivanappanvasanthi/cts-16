@@ -1,0 +1,26 @@
+﻿---
+ID: "d36651ea-5c4d-47ec-8486-35a053d1a59b"
+Parent: "7c28220f-113c-4eca-a2fa-192b364e8d35"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Test Tenant/Testsite/Presentation/Styles/Flip on hover
+DB: master
+BranchID: "5edf676a-2fdd-418a-8c56-cb465ee16e20"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2602BD71-3B68-4B6E-A03E-E63C85E5423D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T172509Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

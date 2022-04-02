@@ -1,0 +1,14 @@
+﻿---
+ID: "d95ac726-fcf8-49e7-8070-8aaaa3c9bf0e"
+Parent: "cad7e411-dbe1-47d2-828e-3557108e11f2"
+Template: "70461699-48e4-45fa-b74b-0cce849fca6a"
+Path: /sitecore/content/Altudo/MolinaSXA/Settings/Maps Provider
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T033800Z
